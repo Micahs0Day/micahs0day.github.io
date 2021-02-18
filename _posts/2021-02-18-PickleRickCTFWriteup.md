@@ -1,4 +1,5 @@
 ---
 layout: post
-title: Blogging Like a Hacker
+title: 'Writeup - TryHackMe - [Easy] PickleRick CTF '
+published: true
 ---
