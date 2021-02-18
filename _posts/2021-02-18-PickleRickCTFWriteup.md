@@ -42,13 +42,13 @@ What is the first ingredient Rick needs?
     
    - Rick says to logon to his computer, since we found a SSH server on port 22 I decided to prod it a bit and try to logon using rick as the username:
     
-    
+![]({{site.baseurl}}/images/PickleRick-THM-06.png)
     
    - However I kept getting “Permission denied” errors from the SSH server. That's when I decided to dig around the website a bit more.
     
    - After inspecting element, I found a comment in the HTML containing Ricks username “R1ckRul3s”.
     
-   - Since the SSH server was a no go, I went on to further enumerate the box using dirbuster and the /usr/share/wordlists/dirbuster/directory-list-2.3-small.txt wordlist found in defauly kali installations.
+   - Since the SSH server was a no go, I went on to further enumerate the box using dirbuster and the /usr/share/wordlists/dirbuster/directory-list-2.3-small.txt wordlist found in default kali installations. There are plenty of others ways to enumerate directories, but I chose to use this method.
     
 
 - After the scan ran for a few minutes, we started to get a few 200 responses from the server.
