@@ -7,7 +7,7 @@ What is the first ingredient Rick needs?
 
  - Deploy the machine, and connect to THM's network using the VPN.
  
-[0.png]({{site.baseurl}}/_posts/0.png)
+(/_posts/0.png)
 
  - A quick ifconfig shows that I am connected successfully.
  
@@ -20,7 +20,7 @@ What is the first ingredient Rick needs?
  
  - So I run the scan:
         
-        sudo nmap -vv -sS -T4 10.10.76.17
+        ![sudo nmap -vv -sS -T4 10.10.76.17]
  
     -p-     Scans all ports (default nmap scan only scans the first 1024 ports)
     -vv     Sets verbosity for the scan (causes the scan to output information during the scans execution)
