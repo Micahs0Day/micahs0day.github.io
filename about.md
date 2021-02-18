@@ -11,10 +11,10 @@ Passionate for all things tech, both software and hardware related. In my spare 
 
 ### More Information
 
-Black Cyber Security Association Member
-Security+
-Network+ (Coming Soon)
-EJPT (Coming Soon)
+-Black Cyber Security Association Member
+-Security+
+-Network+ (Coming Soon)
+-EJPT (Coming Soon)
 
 ### Contact me
 
