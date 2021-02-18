@@ -78,13 +78,13 @@ What is the first ingredient Rick needs?
 
 - http://10.10.76.17/clue.txt displays the message “Look around the file system for the other ingredient.”
 
-- I ran a find command to list all of the .txt files in the system, however I could not find anything this way.
+- I ran a ```find``` command to list all of the .txt files in the system, however I could not find anything this way.
 
 - So I decided to try and find other home users home directories. 
 
 - After running:
 
-
+       
 
 I found the home directories of “rick” and “ubuntu”
 
