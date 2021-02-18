@@ -7,10 +7,9 @@ What is the first ingredient Rick needs?
 
  - Deploy the machine, and connect to THM's network using the VPN.
 
-![Connect to THM]({{ site.baseurl }}images/PickleRick-THM-01.png "THM VPN Connection")
+![]({{ site.baseurl }}images/PickleRick-THM-01.png "")
 
  - A quick ifconfig shows that I am connected successfully.
- 
  
 
  - Even though I know that it's a webserver probably running on port 80, I still like to do an nmap scan to get a lay of the land and try to gather as much information that I can about the target.
