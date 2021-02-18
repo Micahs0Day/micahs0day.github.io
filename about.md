@@ -2,14 +2,20 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
+Aspiring penetration tester with strong technical expertise in the field of system administration with a concentration in Cyber-Security. I have over two years in the corporate tech space, dealing with virtualization, Windows/Linux administration, networking, server management, vulnerability management, firewall administration and more. 
+
+Passionate for all things tech, both software and hardware related. In my spare time I tinker with my home lab, do rooms on TryHackMe, listen to Cyber-Security podcasts and tinker with electronics including raspberry pi's, Arduino, and 3D printers. Also every once in a blue moon you will catch me playing Squad on PC.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Black Cyber Security Association Member
+Security+
+Network+ (Coming Soon)
+EJPT (Coming Soon)
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email@domain.com](mailto:likemicah@protonmail.com)
