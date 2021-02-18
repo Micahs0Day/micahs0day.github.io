@@ -11,9 +11,9 @@ Passionate for all things tech, both software and hardware related. In my spare 
 
 ### More Information
 
--Black Cyber Security Association Member | January 2020 - Present
+-Black Cyber Security Association Member (January 2020 - Present)
 
--Security+ | July 2020
+-Security+ (July 2020)
 
 -Network+ (Coming Soon)
 
