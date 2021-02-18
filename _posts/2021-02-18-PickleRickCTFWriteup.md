@@ -66,14 +66,13 @@ What is the first ingredient Rick needs?
 
 - After logging into the website I was greeted by this page:
 
-
+![]({{site.baseurl}}/images/PickleRick-THM-10.png)
 
 - The commands tab is the only tab available to me at the moment.
 
-- An ls command shows the contents of the current directory.
+- An ```ls``` command shows the contents of the current directory.
 
-
-    
+![]({{site.baseurl}}/images/PickleRick-THM-11.png)
     
 - When I path out to http://10.10.76.17/Sup3rS3cretPickl3Ingred.txt , I get this message: "mr. meeseek hair" , which also happens to be the first flag.
 
