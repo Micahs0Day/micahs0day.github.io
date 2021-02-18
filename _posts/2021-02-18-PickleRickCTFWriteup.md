@@ -11,8 +11,7 @@ What is the first ingredient Rick needs?
 
  - A quick ifconfig shows that I am connected successfully.
  
- ![1.png]({{site.baseurl}}/_posts/1.png)
-
+ 
 
  - Even though I know that it's a webserver probably running on port 80, I still like to do an nmap scan to get a lay of the land and try to gather as much information that I can about the target.
  
