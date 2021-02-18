@@ -11,6 +11,7 @@ What is the first ingredient Rick needs?
 
  - A quick ifconfig shows that I am connected successfully.
  
+![]({{site.baseurl}}/images/PickleRick-THM-02.png)
 
  - Even though I know that it's a webserver probably running on port 80, I still like to do an nmap scan to get a lay of the land and try to gather as much information that I can about the target.
  
@@ -18,7 +19,7 @@ What is the first ingredient Rick needs?
  
  - So I run the scan:
         
-sudo nmap -vv -sS -T4 10.10.76.17
+```sudo nmap -vv -sS -T4 10.10.76.17```
  
  
 -p-     Scans all ports (default nmap scan only scans the first 1024 ports)
