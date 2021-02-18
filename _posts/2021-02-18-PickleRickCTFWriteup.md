@@ -21,36 +21,34 @@ What is the first ingredient Rick needs?
 sudo nmap -vv -sS -T4 10.10.76.17
  
  
-    -p-     Scans all ports (default nmap scan only scans the first 1024 ports)
-    -vv     Sets verbosity for the scan (causes the scan to output information during the scans execution)
-    -T4     The speed of the scan that I want to run (higher speeds tend to be more innacurate)
-    -sS     is the default scan when nmap is ran with admin priviledges (sudo).
-             *You can also do a range of IP address and scan entire subnets, this takes a lot more time though.     
+-p-     Scans all ports (default nmap scan only scans the first 1024 ports)
+-vv     Sets verbosity for the scan (causes the scan to output information during the scans execution)
+-T4     The speed of the scan that I want to run (higher speeds tend to be more innacurate)
+-sS     is the default scan when nmap is ran with admin priviledges (sudo).
+*You can also do a range of IP address and scan entire subnets, this takes a lot more time though.     
+
     
-    If you want to learn more about nmap and it's functionality, you can run the command man nmap or visits nmaps website.
+   If you want to learn more about nmap and it's functionality, you can run the command man nmap or visits nmaps website.
     
-    This was the output:
-    
+   This was the output:
     
         
-    - Since this is a webserver challenge I will try and connect to the server using the supplied IP address. IP addresses automatically resolve to port 80 so I don't have to specify the port.
+   - Since this is a webserver challenge I will try and connect to the server using the supplied IP address. IP addresses automatically resolve to port 80 so I don't have to specify the port.
     
-    - After navigating to the URL, I was greeted by this webpage;
-    
-    
-    
-    - Rick says to logon to his computer, since we found a SSH server on port 22 I decided to prod it a bit and try to logon using rick as the username:
+   - After navigating to the URL, I was greeted by this webpage;
     
     
     
-    - However I kept getting “Permission denied” errors from the SSH server. That's when I decided to dig around the website a bit more.
+   - Rick says to logon to his computer, since we found a SSH server on port 22 I decided to prod it a bit and try to logon using rick as the username:
     
-    - After inspecting element, I found a comment in the HTML containing Ricks username “R1ckRul3s”.
     
-    - Since the SSH server was a no go, I went on to further enumerate the box using dirbuster and the /usr/share/wordlists/dirbuster/directory-list-2.3-small.txt wordlist found in defauly kali installations.
     
-
-
+   - However I kept getting “Permission denied” errors from the SSH server. That's when I decided to dig around the website a bit more.
+    
+   - After inspecting element, I found a comment in the HTML containing Ricks username “R1ckRul3s”.
+    
+   - Since the SSH server was a no go, I went on to further enumerate the box using dirbuster and the /usr/share/wordlists/dirbuster/directory-list-2.3-small.txt wordlist found in defauly kali installations.
+    
 
 - After the scan ran for a few minutes, we started to get a few 200 responses from the server.
 
