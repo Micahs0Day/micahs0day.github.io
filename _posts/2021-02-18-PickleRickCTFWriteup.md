@@ -6,8 +6,8 @@ published: true
 What is the first ingredient Rick needs?
 
  - Deploy the machine, and connect to THM's network using the VPN.
- 
-![Connect to THM]({{ site.baseurl }}/images/jekyll-logo.png "Openvpn Connection")
+
+![Connect to THM]({{ site.baseurl }}images/PickleRick-THM-01.png "THM VPN Connection")
 
  - A quick ifconfig shows that I am connected successfully.
  
@@ -20,7 +20,7 @@ What is the first ingredient Rick needs?
  
  - So I run the scan:
         
-        ![sudo nmap -vv -sS -T4 10.10.76.17]
+        sudo nmap -vv -sS -T4 10.10.76.17
  
     -p-     Scans all ports (default nmap scan only scans the first 1024 ports)
     -vv     Sets verbosity for the scan (causes the scan to output information during the scans execution)
