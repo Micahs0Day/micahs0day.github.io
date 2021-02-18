@@ -48,7 +48,7 @@ What is the first ingredient Rick needs?
     
    - After inspecting element, I found a comment in the HTML containing Ricks username “R1ckRul3s”.
     
-   - Since the SSH server was a no go, I went on to further enumerate the box using dirbuster and the /usr/share/wordlists/dirbuster/directory-list-2.3-small.txt wordlist found in default kali installations. There are plenty of others ways to enumerate directories, but I chose to use this method.
+   - Since the SSH server was a no go, I went on to further enumerate the box using dirbuster and the "/usr/share/wordlists/dirbuster/directory-list-2.3-small.txt" wordlist found in default kali installations. There are plenty of others ways to enumerate directories, but I chose to use this method.
     
 ![]({{site.baseurl}}/images/PickleRick-THM-07.png)
 
@@ -56,7 +56,7 @@ What is the first ingredient Rick needs?
 
 ![]({{site.baseurl}}/images/PickleRick-THM-08.png)
 
-- The one that stood out the most was the "\login.php" page that was found, so I decided to give that a try first.
+- The one that stood out the most was the "/login.php" page that was found, so I decided to give that a try first.
 
 - Lo and Behold! I found the login page for the webserver.
 
@@ -84,40 +84,44 @@ What is the first ingredient Rick needs?
 
 - After running:
 
-       
+![]({{site.baseurl}}/images/PickleRick-THM-12.png)       
 
 I found the home directories of “rick” and “ubuntu”
 
-
+![]({{site.baseurl}}/images/PickleRick-THM-13.png)
 
 - So I decided to explore the rick directory a bit more.
 
-
+![]({{site.baseurl}}/images/PickleRick-THM-14.png)
 
 - After running this, I found this file.
 
-
+![]({{site.baseurl}}/images/PickleRick-THM-15.png)
 
 - Since I can't use the command cat , I use less instead.
 
-
+![]({{site.baseurl}}/images/PickleRick-THM-16.png)
 
 - Doing so allows me to find the second flag “1 jerry tear”
 
+
+
 The final flag gives me a hint of:
 
+![]({{site.baseurl}}/images/PickleRick-THM-17.png)
 
+- So I run the command ```sudo -l``` this gives me a list of commands that my current user can run with admin rights.
 
-- So I run the command sudo -l this gives me a list of commands that my current user can run with admin rights.
-
-
+![]({{site.baseurl}}/images/PickleRick-THM-18.png)
 
 Ahhh, so we have all the power in the wolrld (system) pretty much. We are allowed to run (ALL) commands as sudo.
 
 Lets try to look in the root directory of the system. THM has taught me that there are always flags there.
 
-Running the command sudo ls /root lists the files inside of the /root directory.
+Running the command ```sudo ls -la \root``` lists the files inside of the /root directory.
 
-
+![]({{site.baseurl}}/images/PickleRick-THM-19.png)
 
 - And there we are, looks like we found our last flag!!!
+
+![]({{site.baseurl}}/images/PickleRick-THM-20.png)
