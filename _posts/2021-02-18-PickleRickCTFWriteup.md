@@ -7,7 +7,7 @@ What is the first ingredient Rick needs?
 
  - Deploy the machine, and connect to THM's network using the VPN.
  
-![0.png]({{site.baseurl}}/_posts/0.png)
+[0.png]({{site.baseurl}}/_posts/0.png)
 
  - A quick ifconfig shows that I am connected successfully.
  
