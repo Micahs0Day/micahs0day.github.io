@@ -38,7 +38,7 @@ What is the first ingredient Rick needs?
     
    - After navigating to the URL, I was greeted by this webpage;
     
-    
+![]({{site.baseurl}}/images/PickleRick-THM-05.png)
     
    - Rick says to logon to his computer, since we found a SSH server on port 22 I decided to prod it a bit and try to logon using rick as the username:
     
