@@ -7,10 +7,8 @@ What is the first ingredient Rick needs?
 
  - Deploy the machine, and connect to THM's network using the VPN.
  
- 
- ![]({{site.baseurl}}/https://lh3.googleusercontent.com/EjYlKxahPJgYC5rjSES_-Kwmj7hPFSRcpNeehHHEwOGJXnIza7QMVSp1afE2wdNByBZAQL2PgIXb3kI204kJ-cVGQoiRFiSVFm36olEtJoS8OIuescpIOQ234C0WL7-qYdum0PWrLdabh-LyL1ypfZJ2fKCXMd4VFM_hyEyYQF1Rmj5QQJRrlZDl6PEsO3ymNrzZByrbIz246C_TznWRV6JJf1c74Y8XAor1JggF6br-qF4yxKyDrccxkk6PqYHgez37KW-KsohBBRs6sJFnVIgWjuF4S77HPpDJHG-Tk_LQWZykt2raglkKdPNmxJGzkDSxUY4u6NYes7r8WMbQuqWV_OHVXB_iqR5Cf4ODXNFSFK5KjSAz1dgzaq1y3-QYErK9PHmHy68TNDGdx3Bl0AfdltoDd_Y2zySOBf5lxRj6VGtRFDJvqmcgkqz1BUy2i2HNRyLMeoMAlh4JdOescbSLdi32pELWdyH1GgcjMzDZ6Tyn5CLyKVFR7doZbjq9fz35PL9Xcl55z6l2c9J1OscezCdEcrNIzUrBpVRW3ux2gWS9wXnhCG7m9uQ2ySwaquiNB-rcmgQP0ZIWvUh-WZBP3Nr87cn1cEsAmZsOSazO-60KrlPTSwBNkMRvVY5EPZy525dRoaFLypD3Yyx3KqpMI2RQTeQLBmYVouDrV3kfs6NT-I7j3TIWjs0=w453-h68-no?authuser=0)
+![0.png]({{site.baseurl}}/_posts/0.png)
 
- 
  - A quick ifconfig shows that I am connected successfully.
  
  ![1.png]({{site.baseurl}}/_posts/1.png)
