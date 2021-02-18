@@ -21,4 +21,4 @@ Passionate for all things tech, both software and hardware related. In my spare 
 
 ### Contact me
 
-[email@domain.com](mailto:likemicah@protonmail.com)
+[LikeMicah@Protonmail.com](mailto:likemicah@protonmail.com)
