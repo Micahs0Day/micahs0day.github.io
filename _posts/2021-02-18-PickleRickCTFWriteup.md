@@ -50,16 +50,17 @@ What is the first ingredient Rick needs?
     
    - Since the SSH server was a no go, I went on to further enumerate the box using dirbuster and the /usr/share/wordlists/dirbuster/directory-list-2.3-small.txt wordlist found in default kali installations. There are plenty of others ways to enumerate directories, but I chose to use this method.
     
+![]({{site.baseurl}}/images/PickleRick-THM-07.png)
 
 - After the scan ran for a few minutes, we started to get a few 200 responses from the server.
 
-
+![]({{site.baseurl}}/images/PickleRick-THM-08.png)
 
 - The one that stood out the most was the "\login.php" page that was found, so I decided to give that a try first.
 
 - Lo and Behold! I found the login page for the webserver.
 
-
+![]({{site.baseurl}}/images/PickleRick-THM-09.png)
 
 - In the list of found directories, I also found a robots.txt file which contains the password “Wubbalubbadubdub”.
 
