@@ -11,16 +11,15 @@ What is the first ingredient Rick needs?
 
  - A quick ifconfig shows that I am connected successfully.
  
-![]({{site.baseurl}}/images/PickleRick-THM-02.png)
+![]({{site.baseurl}}/images/PickleRick-THM-03.png)
 
  - Even though I know that it's a webserver probably running on port 80, I still like to do an nmap scan to get a lay of the land and try to gather as much information that I can about the target.
  
- - In this instance, the IP address of my box is 10.10.76.17.
+ - In this instance, the IP address of my box is **10.10.76.17**.
  
  - So I run the scan:
         
 ```sudo nmap -vv -sS -T4 10.10.76.17```
- 
  
 -p-     Scans all ports (default nmap scan only scans the first 1024 ports)
 -vv     Sets verbosity for the scan (causes the scan to output information during the scans execution)
@@ -33,6 +32,7 @@ What is the first ingredient Rick needs?
     
    This was the output:
     
+![]({{site.baseurl}}/images/PickleRick-THM-04.png)
         
    - Since this is a webserver challenge I will try and connect to the server using the supplied IP address. IP addresses automatically resolve to port 80 so I don't have to specify the port.
     
