@@ -3,6 +3,12 @@ layout: post
 title: 'Writeup - TryHackMe - [Easy] PickleRick CTF '
 published: true
 ---
+
+---
+layout: post
+title: Writeup - TryHackMe - [Easy] PickleRick CTF
+---
+
 What is the first ingredient Rick needs?
 
  - Deploy the machine and connect to THM's network using the VPN.
