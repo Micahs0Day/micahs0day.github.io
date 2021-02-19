@@ -4,6 +4,7 @@ title: 'Writeup - TryHackMe - [Easy] PickleRick CTF '
 published: true
 ---
 
+![]({{site.baseurl}}/images/rickandmorty.png)
 
 What is the first ingredient Rick needs?
 
