@@ -6,8 +6,7 @@ published: true
 ---
 
 <div class="posts">
-  {% assign my_writeups = {{ site.baseurl }}/_writeups %}
-  {% for post in my_writeups %}
+  {% for post in {{ site.baseurl }}/_writeups %}
     <article class="post">
 
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
