@@ -22,3 +22,5 @@ Passionate for all things tech, both software and hardware related. In my spare 
 ### Contact me
 
 [LikeMicah@Protonmail.com](mailto:likemicah@protonmail.com)
+
+ <script src="https://tryhackme.com/badge/142740"></script>
