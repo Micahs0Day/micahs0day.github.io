@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Creating Basic Home-Lab with ESXI and Pfsense
+title: Creating Basic Home-Lab with VMware ESXI and Pfsense
 categories: labs
 published: true
 ---
