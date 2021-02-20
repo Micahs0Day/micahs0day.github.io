@@ -3,6 +3,7 @@ layout: post
 title: 'Writeup - TryHackMe - [Easy] PickleRick CTF '
 categories: writeups
 published: true
+comments: true
 ---
 
 ![]({{site.baseurl}}/images/picklerick.jpg)
