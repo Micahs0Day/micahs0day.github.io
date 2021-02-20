@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Creating IDS/IPS Lab with Pfsense and Suricata
+title: Basic homelab with ESXI and Pfsense
 categories: labs
 published: true
 ---
