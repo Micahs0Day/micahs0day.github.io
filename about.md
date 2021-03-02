@@ -23,6 +23,11 @@ Passionate for all things tech, both software and hardware related. In my spare 
 
 -EJPT (Coming Soon)
 
+-CCSP (Coming Soon)
+
+-CISSP (Coming Soon)
+
+
 ### Contact me
 
 [LikeMicah@Protonmail.com](mailto:likemicah@protonmail.com)
