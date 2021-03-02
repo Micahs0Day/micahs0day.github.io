@@ -23,6 +23,8 @@ Passionate for all things tech, both software and hardware related. In my spare 
 
 -EJPT (Coming Soon)
 
+-OSCP (Coming Soon)
+
 -CCSP (Coming Soon)
 
 -CISSP (Coming Soon)
