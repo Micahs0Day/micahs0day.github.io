@@ -17,7 +17,9 @@ Passionate for all things tech, both software and hardware related. In my spare 
 
 -Security+ (July 2020)
 
--Network+ (Coming Soon)
+-Network+ (March 2021)
+
+-Splunk Power User (March 2021)
 
 -EJPT (Coming Soon)
 
