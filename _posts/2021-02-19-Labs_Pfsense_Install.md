@@ -182,10 +182,12 @@ Step 9: Check for updates. It’s important to keep your servers up to date. Com
 
 You should be greeted with the wonderful PfSense dashboard as we are finally finished with our deployment!!!
 
-## Done
+
 Hopefully you have successfully completed setting up PfSense as a VM. Take a moment to pat yourself on the back, breathe a breath of relief, then get ready for the next step (coming soon)!! Feel free to go out and research things to install onto your Hypervisor that may interest or be of benefit to you.
 
+
 **I suggest you go check out these resources:**
+
 
 [r/homelab]( https://www.reddit.com/r/homelab/ )
 
@@ -197,8 +199,7 @@ Hopefully you have successfully completed setting up PfSense as a VM. Take a mom
 Leave a like or a comment if this post helped you in some way or if you learned something in the process.
 
 
-**"The ability to create is a blessing!"
- - Micah
+**"The ability to create is a blessing!"**
 
 
 
