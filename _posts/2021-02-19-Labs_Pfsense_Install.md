@@ -19,10 +19,11 @@ I am currently running ESXI on an OptiPlex 7010 (16GB of RAM w/ a 2TB HDD), with
 
 [HP NC364T]( https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1312&_nkw=HP+NC364T&_sacat=0&LH_TitleDesc=0&_osacat=0&_odkw=optiplex+7010/)
 
-
 ## Networking Planning:
 
 A wise man once said, “By failing to prepare, you are preparing to fail”, so taking these wise words to heart, I used a program called yEd Graph Editor to map out my network’s topography. I am a visual learner, so this helps tremendously when configuring and installing network devices. Everything you see is not yet in place, but I hope to add on to my network little by little until it looks like this. As you can see by the color schema, I will have three physical network connections, and several virtual and wireless connections in my topography. My main PC will be on my management network, this is vital because you never want to be unable to connect to your ESXI server.
+
+![]({{site.baseurl}}/images/networkmap.png)
 
 ## Download/Install pfSense:
 
@@ -39,7 +40,6 @@ After we have our ISO downloaded and verified, we will unzip the ISO, navigate t
 ![]({{site.baseurl}}/images/datastore.png)
 
 ![]({{site.baseurl}}/images/datastoreupload.png)
-
 
 ## Virtual Switches:
 
@@ -83,10 +83,13 @@ Select the datastore you want to use for storage. Then hit next.
 
 ![]({{site.baseurl}}/images/vmwizard3.png)
 
-This is the fun part! Allocating resources. So, you want to scale your resources based on your deployment. If you head to the PfSense website and view their products, it will give you a sense of what hardware requirements are needed for all types of deployments. In my case, I will be installing this as my home router/firewall, so it won’t require much, the default settings are sufficient in my case. While we are here, go ahead and choose LAN as our first network adapter and then add a second which we will choose as WAN from the dropdown menu. Also, we will mount our PfSense ISO to run at first startup.
+This is the fun part! Allocating resources. So, you want to scale your resources based on your deployment. If you head to the PfSense website and view their products, it will give you a sense of what hardware requirements are needed for all types of deployments. In my case, I will be installing this as my home router/firewall, so it won’t require much, the default settings are sufficient in my case. While we are here, go ahead and choose LAN as our first network adapter and then add a second which we will choose as WAN from the dropdown menu. 
+
 [pfSense Hardware Requirements](https://www.pfsense.org/products/)
 
 ![]({{site.baseurl}}/images/vmwizard4.png)
+
+Also, we will mount our PfSense ISO to run at first startup.
 
 ![]({{site.baseurl}}/images/vmwizard5.png)
 
@@ -138,7 +141,6 @@ Wait a few minutes and your ESXI interface should come back up if you are using 
 
 ![]({{site.baseurl}}/images/Pfsensewanuplink.jpg)
 
-
 ## Web Interface
 
 Now we can navigate to our gateway’s IP address, in my case 192.168.1.1, and we should be greeted with a login interface. The default username is “admin” and the default password is “pfsense”.
@@ -172,11 +174,6 @@ You should be greeted with the wonderful PfSense dashboard as we are finally fin
 
 ## Done
 You (hopefully) have successfully completed setting up PfSense in a virtual environment. Take a moment to pat yourself on the back, breathe a breath of relief, then get ready for the next step (coming soon)!! Feel free to go out and research things to install on your Hypervisor that may interest or be of benefit to you.
-
-
-
-
-
 
 I suggest you go check out these resources:
 
