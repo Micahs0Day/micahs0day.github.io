@@ -90,7 +90,9 @@ Select the datastore you want to use for storage. Then hit next.
 
 ![]({{site.baseurl}}/images/vmwizard3.png)
 
-The next step is allocating VM resources. You want to scale your resources based on your deployment. If you head to the PfSense website and view their products, it will give you a sense of what hardware requirements are needed for all types of deployments. In my case, I will be installing this as my home router/firewall so it won’t require much. The default settings are sufficient in my case. While I am here, I will go ahead and choose LAN as the first network adapter and then add a second network adapter which I will choose as WAN from the dropdown menu. 
+The next step is allocating VM resources. You want to scale your resources based on your deployment. If you head to the PfSense website and view their products, it will give you a sense of what hardware requirements are needed for all types of deployments. 
+
+In my case, I will be installing this as my home router/firewall so it won’t require much. The default settings are sufficient in my case. While I am here, I will go ahead and choose LAN as the first network adapter and then add a second network adapter which I will choose as WAN from the dropdown menu. 
 
 [pfSense Hardware Requirements](https://www.pfsense.org/products/)
 
@@ -130,7 +132,7 @@ We aren’t setting up VLAN’s at this point so type “n”.
 
 ![]({{site.baseurl}}/images/vmwizard12.png)
 
-If you remember from earlier, our WAN interface is vmx1 and our LAN interface will be vmx0.
+If you remember from earlier, my WAN interface is vmx1 and my LAN interface will be vmx0. It may have a different naming convention in your case, but the concept is the same.
 
 ![]({{site.baseurl}}/images/vmwizard13.png)
 
@@ -140,21 +142,21 @@ If you remember from earlier, our WAN interface is vmx1 and our LAN interface wi
 
 ## Routing
 
-After the machine gets through setting our configurations you will be greeted with this screen. There’s so much that we can change here, but I will keep everything default as of now. Don’t worry about the WAN address for now, I will explain that in a few. 
+After the machine gets through setting your configurations, you will be greeted with this screen. There’s so much that we can change here, but I will keep everything default as of now. Don’t worry about the WAN address for now, I will explain that in a few. 
 
 The only thing left to do now is to connect my PC’s LAN cable to the MNGMT port on the back of my server and the WAN port to the uplink from my modem. 
 
-Wait a few minutes and your ESXI interface should come back up if you are using the same IP schema. If you changed IP schema, you would have to search for the IP address of ESXI using something like Angry IP scanner or simply connect a monitor to your ESXI machine, the IP address should be on the home screen. Also, you may have to disable/re-enable your PC’s NIC to get your IP to change, or do an ipconfig /release, ipconfig/renew. If your modem is annoying like mine, you may have to reset your modem to get a WAN IP.
+As the network readjusts and configures itself you may find yourself without an internet connection. Wait a few minutes and your ESXI interface should come back up if you are using the same IP schema. If you changed IP schema, you have to search for the IP address of ESXI using something like Angry IP scanner or simply connect a monitor to your ESXI machine and the IP address should be on the home screen. Also, you may have to disable/re-enable your PC’s NIC to get your IP to change, or do an ipconfig /release, ipconfig/renew. If your modem is annoying like mine, you may have to reset your modem to get a WAN IP.
 
 ![]({{site.baseurl}}/images/Pfsensewanuplink.png)
 
 ## Web Interface
 
-Now we can navigate to our gateway’s IP address, in my case 192.168.1.1, and we should be greeted with a login interface. The default username is “admin” and the default password is “pfsense”.
+Now we can navigate to our gateway’s IP address, in my case the address is 192.168.1.1. If you enter this address into your web browsers URL, you should be greeted with a login interface. The default username is **admin** and the default password is **pfsense**.
 
 ![]({{site.baseurl}}/images/pfsenseweb0.png)
 
-Hit next a few times, then when you get to the General Information screen. As you can see my Hostname is PfSense and my Domain is M0d.com, configure this as you wish. Also, I will be using Google’s DNS servers. Popular DNS addresses are Google’s (8.8.8.8/8.8.4.4) and Cloudfare’s (1.1.1.1).
+Hit next a few times and you will get to the router's general Information screen. As you can see, my Hostname is PfSense and my Domain is M0d.com, configure this as you wish. In this instance I will be using Google’s DNS servers. Popular DNS addresses are Google’s (8.8.8.8/8.8.4.4) and Cloudfare’s (1.1.1.1).
 
 ![]({{site.baseurl}}/images/pfsenseweb1.png)
 
@@ -162,27 +164,28 @@ Read more about DNS here:
 
 [DNS](https://www.lifewire.com/what-is-a-dns-server-2625854/)
 
-You can leave the Time Server hostname as default but change the Time zone to match where you live.
+You can leave the Time Server hostname as default, but change the Time zone to match where you live.
 
 ![]({{site.baseurl}}/images/pfsenseweb2.png)
 
-Hit Next on step 4, unless you know what you are doing.
+Hit Next on step 4 unless you know what you are doing.
 
 Since I will be keeping the default IP schema, I hit next on Step 5 as well.
 
 Step 6: Change the Admin password!! Kudos to PfSense for making this mandatory during the installation process. This ensures that you don’t leave the default admin credentials in place, which is a BIG no no.
 
 Step 7: Hit “Reload to reload PfSense with your new changes.”
+
 Step 8: Wait for your router to reload.
 
-Step 9: Check for updates. It’s important to keep your servers up to date. Manufactures release security and quality patches all the time to keep your machines safe and running smoothly, so be on the lookout for those. Since we are on the latest version, there is nothing to update, but better to be safe than sorry.
+Step 9: Check for updates. It’s important to keep your servers up to date. Companies release security and quality patches all the time to keep your machines safe and running smoothly so be on the lookout for those. Since we are on the latest version there is nothing to update, but better to be safe than sorry.
 
 You should be greeted with the wonderful PfSense dashboard as we are finally finished with our deployment!!!
 
 ## Done
-You (hopefully) have successfully completed setting up PfSense in a virtual environment. Take a moment to pat yourself on the back, breathe a breath of relief, then get ready for the next step (coming soon)!! Feel free to go out and research things to install on your Hypervisor that may interest or be of benefit to you.
+Hopefully you have successfully completed setting up PfSense as a VM. Take a moment to pat yourself on the back, breathe a breath of relief, then get ready for the next step (coming soon)!! Feel free to go out and research things to install onto your Hypervisor that may interest or be of benefit to you.
 
-I suggest you go check out these resources:
+**I suggest you go check out these resources:**
 
 [r/homelab]( https://www.reddit.com/r/homelab/ )
 
