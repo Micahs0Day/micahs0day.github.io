@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Installing PfSense as a VM using ESXI
+title: Installing and configuring PfSense as a virtual Machine using VMware ESXI.
 categories: labs
 published: true
 ---
