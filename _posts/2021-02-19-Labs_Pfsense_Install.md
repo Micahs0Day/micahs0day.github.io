@@ -140,7 +140,7 @@ If you remember from earlier, my WAN interface is vmx1 and my LAN interface will
 
 ![]({{site.baseurl}}/images/vmwizard15.png)
 
-## Routing
+## Routing:
 
 After the machine gets through setting your configurations, you will be greeted with this screen. There’s so much that we can change here, but I will keep everything default as of now. Don’t worry about the WAN address for now, I will explain that in a few. 
 
@@ -148,9 +148,9 @@ The only thing left to do now is to connect my PC’s LAN cable to the MNGMT por
 
 As the network readjusts and configures itself you may find yourself without an internet connection. Wait a few minutes and your ESXI interface should come back up if you are using the same IP schema. If you changed IP schema, you have to search for the IP address of ESXI using something like Angry IP scanner or simply connect a monitor to your ESXI machine and the IP address should be on the home screen. Also, you may have to disable/re-enable your PC’s NIC to get your IP to change, or do an ipconfig /release, ipconfig/renew. If your modem is annoying like mine, you may have to reset your modem to get a WAN IP.
 
-![]({{site.baseurl}}/images/Pfsensewanuplink.png)
+![]({{site.baseurl}}/images/wanuplink.png)
 
-## Web Interface
+## Web Interface:
 
 Now we can navigate to our gateway’s IP address, in my case the address is 192.168.1.1. If you enter this address into your web browsers URL, you should be greeted with a login interface. The default username is **admin** and the default password is **pfsense**.
 
