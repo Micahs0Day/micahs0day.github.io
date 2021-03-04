@@ -21,15 +21,6 @@ Passionate for all things tech, both software and hardware related. In my spare 
 
 -Splunk Power User (March 2021)
 
--EJPT (Coming Soon)
-
--OSCP (Coming Soon)
-
--CCSP (Coming Soon)
-
--CISSP (Coming Soon)
-
-
 ### Contact me
 
 [LikeMicah@Protonmail.com](mailto:likemicah@protonmail.com)
