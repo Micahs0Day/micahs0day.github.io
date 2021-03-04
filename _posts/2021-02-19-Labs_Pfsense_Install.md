@@ -9,9 +9,11 @@ published: true
 
 ## Intro:
 
-This is a guide showcasing the installation of pfSense into my VMware ESXI lab environment. After installation and configuration I will use pfSense as a virtual machine to route all web traffic in and out of my home network, this will replace the router functionality of my Netgear AC1900, and will allow me to use the Netgear AC1900 as a simple wireless access point to connect all of our wireless devices. In a separate post, I will create VLANs for all categories of traffic on my network and then segment the traffic with firewall rules. 
+This is a guide showcasing the installation of pfSense into my VMware ESXI lab environment. After installation and configuration, I will use pfSense as a virtual machine to route all web traffic in and out of my home network. This will replace the router functionality of my Netgear AC1900, and will allow me to use the Netgear AC1900 as a simple wireless access point to connect my wireless devices. 
 
-This is a great learning experience and can help you learn a lot about routing protocols and virtual networking. This is actually not my first time using pfSense, I previously had a virtual pfSense instance configured as my primary firewall/router, however I was having a lot of issues with the USB NIC’s that I was using previously so I decided to get a dedicated quad port PCIe NIC.  
+In a separate post, I will create VLANs for all categories of traffic on my network and then segment the traffic with firewall rules. 
+
+This is a great learning experience, and can help you to learn about routing protocols and virtual networking. This is not my first time using pfSense, I previously had a virtual pfSense server configured as my primary firewall/router, however I was having a lot of issues with the USB NIC’s that I was using, so I decided to get a dedicated quad port PCIe NIC.  
 
 I am currently running ESXI on an OptiPlex 7010 (16GB of RAM w/ a 2TB HDD), with a Quad port Gigabit NIC (HP NC364T). This whole setup can be had relatively inexpensively. If you want to copy my setup, you can scour eBay for a good deal for the PC and NIC. 
 
