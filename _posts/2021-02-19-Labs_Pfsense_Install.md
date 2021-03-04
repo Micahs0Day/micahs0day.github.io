@@ -70,8 +70,10 @@ Next is the port group for my WAN, I will create a virtual switch and a port gro
 
 ![]({{site.baseurl}}/images/WANportgroup2.png)
 
-Now we are done with configuring our virtual network for now, let’s move onto creating our PfSense VM and connecting our uplinks.
+Now I am done with configuring the virtual network for now, let’s move onto creating the PfSense VM and connecting the uplinks.
+
 ## Virtual Machine Creation:
+
 Navigate back to the virtual machines tab, then open the “Create/Register VM” wizard.
 
 ![]({{site.baseurl}}/images/vmwizard0.png)
@@ -80,7 +82,7 @@ Select “Create new Virtual machine”, then hit next.
 
 ![]({{site.baseurl}}/images/vmwizard1.png)
 
-Enter a name for your new PfSense machine. In my case I will just name it PfSense, doesn’t really matter what you name it. Select the Version of ESXI that you are using, in my case, ESXI 6.7. OS Family is “Other”, and my Guest OS Version is FreeBSD 12 (64-bit) since I’m installing version 2.5.
+Enter a name for your new PfSense machine. In my case I will just name it PfSense (It doesn’t really matter what you name it). Select the Version of ESXI that you are using, in my case, I am running ESXI 6.7. The OS Family is “Other”, and the Guest OS Version is FreeBSD 12 (64-bit) since I’m installing version 2.5.
 
 ![]({{site.baseurl}}/images/vmwizard2.png)
 
@@ -88,19 +90,19 @@ Select the datastore you want to use for storage. Then hit next.
 
 ![]({{site.baseurl}}/images/vmwizard3.png)
 
-This is the fun part! Allocating resources. So, you want to scale your resources based on your deployment. If you head to the PfSense website and view their products, it will give you a sense of what hardware requirements are needed for all types of deployments. In my case, I will be installing this as my home router/firewall, so it won’t require much, the default settings are sufficient in my case. While we are here, go ahead and choose LAN as our first network adapter and then add a second which we will choose as WAN from the dropdown menu. 
+The next step is allocating VM resources. You want to scale your resources based on your deployment. If you head to the PfSense website and view their products, it will give you a sense of what hardware requirements are needed for all types of deployments. In my case, I will be installing this as my home router/firewall so it won’t require much. The default settings are sufficient in my case. While I am here, I will go ahead and choose LAN as the first network adapter and then add a second network adapter which I will choose as WAN from the dropdown menu. 
 
 [pfSense Hardware Requirements](https://www.pfsense.org/products/)
 
 ![]({{site.baseurl}}/images/vmwizard4.png)
 
-Also, we will mount our PfSense ISO to run at first startup.
+Also, I will mount the PfSense ISO to run at first startup.
 
 ![]({{site.baseurl}}/images/vmwizard5.png)
 
 ![]({{site.baseurl}}/images/vmwizard6.png)
 
-Hit “Next”, then review your settings, then if everything looks good, hit “Finish” to complete the VM setup.
+Hit “Next”, then review your settings. If everything looks good, hit “Finish” to complete the VM setup.
 
 Find your newly deployed VM in your virtual machine list, right click it, then power it on.
 
