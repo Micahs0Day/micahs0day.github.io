@@ -38,7 +38,7 @@ Everything you see here is not yet in place, but I hope to add on to my network 
 
 The next step is to download pfSense. It's best practice to verify the zip file's checksum to ensure that no integrity has been lost in the upload/download process. This can be done using the command line, or you can install a program like “MD5 & SHA Checksum Utility”.
 
-![]({{site.baseurl}}/images/pfsensedownload.png)
+![]({{site.baseurl}}/images/pfsensedownload1.png)
 
 After I have the ISO downloaded and verified, I unzip the ISO, navigate to the ESXI datastore, then upload the ISO file to the datastore. I find it helpful to create an “ISOS” directory on the datastore to store uploaded ISO files.
 
