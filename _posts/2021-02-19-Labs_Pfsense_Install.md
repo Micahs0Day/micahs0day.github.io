@@ -140,17 +140,17 @@ The only thing left to do now is to connect my PC’s LAN cable to the MNGMT por
 
 Wait a few minutes and your ESXI interface should come back up if you are using the same IP schema. If you changed IP schema, you would have to search for the IP address of ESXI using something like Angry IP scanner or simply connect a monitor to your ESXI machine, the IP address should be on the home screen. Also, you may have to disable/re-enable your PC’s NIC to get your IP to change, or do an ipconfig /release, ipconfig/renew. If your modem is annoying like mine, you may have to reset your modem to get a WAN IP.
 
-![]({{site.baseurl}}/images/Pfsensewanuplink.jpg)
+![]({{site.baseurl}}/images/Pfsensewanuplink.png)
 
 ## Web Interface
 
 Now we can navigate to our gateway’s IP address, in my case 192.168.1.1, and we should be greeted with a login interface. The default username is “admin” and the default password is “pfsense”.
 
-![]({{site.baseurl}}/images/pfsenseweb0.jpg)
+![]({{site.baseurl}}/images/pfsenseweb0.png)
 
 Hit next a few times, then when you get to the General Information screen. As you can see my Hostname is PfSense and my Domain is M0d.com, configure this as you wish. Also, I will be using Google’s DNS servers. Popular DNS addresses are Google’s (8.8.8.8/8.8.4.4) and Cloudfare’s (1.1.1.1).
 
-![]({{site.baseurl}}/images/pfsenseweb1.jpg)
+![]({{site.baseurl}}/images/pfsenseweb1.png)
 
 Read more about DNS here:
 
@@ -158,7 +158,7 @@ Read more about DNS here:
 
 You can leave the Time Server hostname as default but change the Time zone to match where you live.
 
-![]({{site.baseurl}}/images/pfsenseweb2.jpg)
+![]({{site.baseurl}}/images/pfsenseweb2.png)
 
 Hit Next on step 4, unless you know what you are doing.
 
