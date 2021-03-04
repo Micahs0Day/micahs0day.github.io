@@ -54,7 +54,7 @@ Vmnic0 is already configured as our management network (LAN) on vSwitch0, so all
 
 ![]({{site.baseurl}}/images/LANportgroup.png)
 
-![]({{site.baseurl}}/images/LANportgroup2.png)
+![]({{site.baseurl}}/images/LANportgroup3.png)
 
 Next is the port group for our WAN, we will create a virtual switch, and a port group the same way we did for the LAN, but this time we will be using a different physical NIC for the virtual switch, in my case this is vmnic1 & vSwitch1.
 
