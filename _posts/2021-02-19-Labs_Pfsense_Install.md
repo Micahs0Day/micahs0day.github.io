@@ -84,7 +84,7 @@ Select the datastore you want to use for storage. Then hit next.
 ![]({{site.baseurl}}/images/vmwizard3.png)
 
 This is the fun part! Allocating resources. So, you want to scale your resources based on your deployment. If you head to the PfSense website and view their products, it will give you a sense of what hardware requirements are needed for all types of deployments. In my case, I will be installing this as my home router/firewall, so it won’t require much, the default settings are sufficient in my case. While we are here, go ahead and choose LAN as our first network adapter and then add a second which we will choose as WAN from the dropdown menu. Also, we will mount our PfSense ISO to run at first startup.
-[pfSense Hardware Requirements] (https://www.pfsense.org/products/)
+[pfSense Hardware Requirements](https://www.pfsense.org/products/)
 
 ![]({{site.baseurl}}/images/vmwizard4.png)
 
@@ -151,7 +151,7 @@ Hit next a few times, then when you get to the General Information screen. As yo
 
 Read more about DNS here:
 
-[DNS] (https://www.lifewire.com/what-is-a-dns-server-2625854/)
+[DNS](https://www.lifewire.com/what-is-a-dns-server-2625854/)
 
 You can leave the Time Server hostname as default but change the Time zone to match where you live.
 
@@ -180,9 +180,9 @@ You (hopefully) have successfully completed setting up PfSense in a virtual envi
 
 I suggest you go check out these resources:
 
-[r/homelab] ( https://www.reddit.com/r/homelab/ )
+[r/homelab]( https://www.reddit.com/r/homelab/ )
 
-[PiMyLifeUp] ( https://pimylifeup.com/ )
+[PiMyLifeUp]( https://pimylifeup.com/ )
 
 [VulnHub]( https://www.vulnhub.com/)
 
