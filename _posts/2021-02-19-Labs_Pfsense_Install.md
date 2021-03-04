@@ -25,7 +25,7 @@ I am currently running ESXI on an OptiPlex 7010 (16GB of RAM w/ a 2TB HDD), with
 
 A wise man once said, “By failing to prepare, you are preparing to fail”, so taking these wise words to heart, I used a program called yEd Graph Editor to map out my network’s topography. I am a visual learner, so this helps tremendously when configuring and installing network devices. 
 
-Everything you see here is not yet in place, but I hope to add on to my network little by little until it looks like this. As you can see by the color schema, I will have three physical network connections, and several virtual and wireless connections in my topography with my main PC connected directly to my management network, this will ensure that I always have a route to my ESXI server.
+Everything you see here is not yet in place, but I hope to add on to my network little by little until it looks like this. As you can see by the color schema, I will have three physical network connections and several virtual and wireless connections. My desktop will be connected directly to the management network, this will ensure that I always have a route to my ESXI server.
 
 (Right Click and Open in New Tab for Full Resolution)
 ![]({{site.baseurl}}/images/networkgraph.png)
@@ -36,11 +36,11 @@ Everything you see here is not yet in place, but I hope to add on to my network 
 
 [CheckSum Utility]( https://download.cnet.com/MD5-SHA-Checksum-Utility/3000-2092_4-10911445.html/)
 
-The next step is downloading pfSense from their website. Since this is a Cyber-Security channel, we will be verifying the zip files checksum to verify that no integrity has been lost in the upload/download process. This can be done using the command line, or you can install a program like “MD5 & SHA Checksum Utility” 
+The next step is to download pfSense. It's best practice to verify the zip file's checksum to ensure that no integrity has been lost in the upload/download process. This can be done using the command line, or you can install a program like “MD5 & SHA Checksum Utility”.
 
 ![]({{site.baseurl}}/images/pfsensedownload.png)
 
-After we have our ISO downloaded and verified, we will unzip the ISO, navigate to our ESXI datastore then upload the ISO to the datastore. I find it helpful to create a “ISOS” directory on the datastore to store uploaded ISO files.
+After I have the ISO downloaded and verified, I unzip the ISO, navigate to the ESXI datastore, then upload the ISO file to the datastore. I find it helpful to create an “ISOS” directory on the datastore to store uploaded ISO files.
 
 ![]({{site.baseurl}}/images/datastore.png)
 
@@ -48,11 +48,11 @@ After we have our ISO downloaded and verified, we will unzip the ISO, navigate t
 
 ## Virtual Switches:
 
-Next, we will be configuring the virtual switches and port groups of ESXI server to use as WAN and LAN uplinks for our pfSense machine. For my installation, the only device on my management network (LAN) will be my desktop PC.
+Next, we will be configuring the virtual switches and port groups of the ESXI server to use as WAN and LAN uplinks for our pfSense VM. For my installation, the only device on my management network (LAN) will be my desktop PC.
 
 ![]({{site.baseurl}}/images/physicalnics.png)
 
-Vmnic0 is already configured as our management network (LAN) on vSwitch0, so all we need to do is add a virtual port group to use in our VM. 
+Vmnic0 is already configured as our management network (LAN) on vSwitch0, so all I need to do is add a virtual port group to use in my VM. 
 
 ![]({{site.baseurl}}/images/vmnic0.png)
 
@@ -60,7 +60,7 @@ Vmnic0 is already configured as our management network (LAN) on vSwitch0, so all
 
 ![]({{site.baseurl}}/images/LANportgroup3.png)
 
-Next is the port group for our WAN, we will create a virtual switch, and a port group the same way we did for the LAN, but this time we will be using a different physical NIC for the virtual switch, in my case this is vmnic1 & vSwitch1.
+Next is the port group for my WAN, I will create a virtual switch and a port group the same way I did for the LAN, but this time I will be using a different physical NIC for the virtual switch, in my case this is vmnic1 & vSwitch1.
 
 ![]({{site.baseurl}}/images/vSwitch1.png)
 
