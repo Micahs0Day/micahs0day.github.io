@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Creating Basic Home-Lab with VMware ESXI and pfSense
+title: Installing PfSense as a VM using ESXI
 categories: labs
 published: true
 ---
