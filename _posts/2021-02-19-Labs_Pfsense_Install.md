@@ -152,7 +152,7 @@ If you changed IP schema, you have to search for the IP address of ESXI using so
 
 If your modem is annoying like mine, you may have to reset your modem to get a WAN IP.
 
-![]({{site.baseurl}}/images/wanuplink.png)
+![]({{site.baseurl}}/images/wanuplinknew.png)
 
 ## Web Interface:
 
