@@ -23,6 +23,7 @@ I am currently running ESXI on an OptiPlex 7010 (16GB of RAM w/ a 2TB HDD), with
 
 A wise man once said, “By failing to prepare, you are preparing to fail”, so taking these wise words to heart, I used a program called yEd Graph Editor to map out my network’s topography. I am a visual learner, so this helps tremendously when configuring and installing network devices. Everything you see is not yet in place, but I hope to add on to my network little by little until it looks like this. As you can see by the color schema, I will have three physical network connections, and several virtual and wireless connections in my topography. My main PC will be on my management network, this is vital because you never want to be unable to connect to your ESXI server.
 
+(Right Click and Open in New Tab for Full Resolution)
 ![]({{site.baseurl}}/images/networkgraph.png)
 
 ## Download/Install pfSense:
