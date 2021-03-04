@@ -186,7 +186,7 @@ Step 9: Check for updates. It’s important to keep your servers up to date. Com
 
 You should be greeted with the wonderful PfSense dashboard as we are finally finished with our deployment!!!
 
-![]({{site.baseurl}}/images/lisa.png)
+!![](http://38.media.tumblr.com/b8719d544b3efd68a97324a104a8b039/tumblr_n8jyfsCXoY1qfrrv2o1_500.gif/)
 
 Hopefully you have successfully completed setting up PfSense as a VM. Take a moment to pat yourself on the back, breathe a breath of relief, then get ready for the next step (coming soon)!! Feel free to go out and research things to install onto your Hypervisor that may interest or be of benefit to you.
 
