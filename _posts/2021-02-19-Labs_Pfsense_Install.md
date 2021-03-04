@@ -60,7 +60,7 @@ Next is the port group for our WAN, we will create a virtual switch, and a port 
 
 ![]({{site.baseurl}}/images/vSwitch1.png)
 
-![]({{site.baseurl}}/images/virtualswitches.png)
+![]({{site.baseurl}}/images/virtualswitches1.png)
 
 ![]({{site.baseurl}}/images/WANportgroup.png)
 
