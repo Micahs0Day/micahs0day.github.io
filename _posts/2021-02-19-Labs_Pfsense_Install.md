@@ -146,7 +146,11 @@ After the machine gets through setting your configurations, you will be greeted 
 
 The only thing left to do now is to connect my PC’s LAN cable to the MNGMT port on the back of my server and the WAN port to the uplink from my modem. 
 
-As the network readjusts and configures itself you may find yourself without an internet connection. Wait a few minutes and your ESXI interface should come back up if you are using the same IP schema. If you changed IP schema, you have to search for the IP address of ESXI using something like Angry IP scanner or simply connect a monitor to your ESXI machine and the IP address should be on the home screen. Also, you may have to disable/re-enable your PC’s NIC to get your IP to change, or do an ipconfig /release, ipconfig/renew. If your modem is annoying like mine, you may have to reset your modem to get a WAN IP.
+As the network readjusts and configures itself you may find yourself without an internet connection. Wait a few minutes and your ESXI interface should come back up if you are using the same IP schema. 
+
+If you changed IP schema, you have to search for the IP address of ESXI using something like Angry IP scanner or simply connect a monitor to your ESXI machine and the IP address should be on the home screen. Also, you may have to disable/re-enable your PC’s NIC to get your IP to change, or do an ipconfig /release, ipconfig/renew. 
+
+If your modem is annoying like mine, you may have to reset your modem to get a WAN IP.
 
 ![]({{site.baseurl}}/images/wanuplink.png)
 
