@@ -59,11 +59,11 @@ published: true
 
 ## Certifications:
 
-•	CompTIA Security+ -- July 6th, 2020
+•	CompTIA Security+ | July 6th, 2020
 
-•	CompTIA Network+ -- March 2021 
+•	CompTIA Network+ | March 2021 
 
-•	Splunk Certified Power User -- March 2021 (Self-Studying currently)
+•	Splunk Certified Power User | March 2021 (Self-Studying currently)
 
 ## Hobbies:   
 
