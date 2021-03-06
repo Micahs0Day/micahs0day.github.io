@@ -61,7 +61,7 @@ published: true
 
 •	CompTIA Security+ | July 6th, 2020
 
-•	CompTIA Network+ | March 2021 
+•	CompTIA Network+ | March 8th 2021 
 
 •	Splunk Certified Power User | March 2021 (Self-Studying currently)
 
