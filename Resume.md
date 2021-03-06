@@ -6,8 +6,10 @@ published: true
 ---
 
 # Micah Funderburk | [LinkedIn](https://www.linkedin.com/in/micah-funderburk/)
+---
 
 ## Relevant Skills: 
+---
 
 •	Vulnerability Scanning (Nessus, Nmap scripts, OpenVAS)
 
