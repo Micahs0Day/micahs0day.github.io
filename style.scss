@@ -18,8 +18,9 @@ html {
 }
 
 body {
-  background-image: ("{{ site.baseurl }}images/hex.jpg");
-  background-repeat: repeat-y;
+	background: $gray;
+  font: 18px/1.4 $helvetica;
+  color: $darkGray;
 }
 
 .container {
