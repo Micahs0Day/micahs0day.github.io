@@ -24,6 +24,7 @@ published: true
 •	Experienced in managing a malware defense program. (Email security gateways, spam filters, endpoint AV)
 
 ## Relevant work experience:
+---
 
 ### Box-Board Products, INC. | Greensboro, NC | August 2019 - Current  
 
@@ -52,6 +53,7 @@ published: true
 •	Performed new hire onboarding orientation (Computer setup, discussed AUP, and computer security overview) and Managed users & permissions w/ Active Directory.
 
 ## Education: 
+---
 
 ### University of North Carolina at Pembroke |August 2015 - July 2019 
 
@@ -60,6 +62,7 @@ published: true
 •	Relevant Coursework: OO Programming, Java Programming, Computer Network & Data Communication, OS Networking & Security, Intro to System Admin & Shell, Software Development & Professional Practices, Intro to C, Computer and Network Security, Discrete Structures, Data Structures. 
 
 ## Certifications:
+---
 
 •	CompTIA Security+ | July 6th, 2020
 
@@ -68,5 +71,6 @@ published: true
 •	Splunk Certified Power User | March 2021 (Self-Studying currently)
 
 ## Hobbies:   
+---
 
 •	CTF’s, Arduino & Raspberry Pi Projects, fishing, 3D Modeling/Printing, PC gaming, home lab, movies, attending cyber-security conferences, and listening to Cyber-Security podcasts. 
