@@ -1,4 +1,4 @@
-# Micah Funderburk 
+
 likemicah@protonmail.com | Burlington, NC  (336) 905-2668 | https://micahs0day.github.io
 
 ## Relevant Skills: 
