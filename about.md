@@ -5,7 +5,7 @@ permalink: /about/
 published: true
 ---
 
-<script src="https://tryhackme.com/badge/142740"></script>
+<script src="{{ base.url | prepend: site.url }}/assets/thm_script.js"></script>
 
 Aspiring penetration tester with strong technical expertise in the field of system administration with a concentration in Cyber-Security. I have over two years in the corporate tech space, dealing with virtualization, Windows/Linux administration, networking, server management, vulnerability management, firewall administration and more. 
 
