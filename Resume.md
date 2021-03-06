@@ -1,12 +1,12 @@
 
 ---
 layout: page
-title: 
+title: Micah Funderburk
 permalink: /Resume/
 published: true
 ---
 
-## Micah Funderburk
+## [LinkedIn](https://www.linkedin.com/in/micah-funderburk/)
 
 ## Relevant Skills: 
 
