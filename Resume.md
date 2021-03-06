@@ -1,6 +1,6 @@
 ---
 layout: page
-title: My Resume
+title: 
 permalink: /Resume/
 published: true
 ---
