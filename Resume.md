@@ -47,7 +47,7 @@
 
 ### University of North Carolina at Pembroke |August 2015 - July 2019 
 
-*Student - Bachelor of Science Information Technology w/ Concentration in Cyber Security *
+*Student - Bachelor of Science Information Technology w/ Concentration in Cyber Security*
 
 •	Relevant Coursework: OO Programming, Java Programming, Computer Network & Data Communication, OS Networking & Security, Intro to System Admin & Shell, Software Development & Professional Practices, Intro to C, Computer and Network Security, Discrete Structures, Data Structures. 
 
