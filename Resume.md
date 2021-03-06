@@ -1,4 +1,11 @@
 
+---
+layout: page
+title: 
+permalink: /Resume/
+published: true
+---
+
 ## Micah Funderburk
 
 ## Relevant Skills: 
