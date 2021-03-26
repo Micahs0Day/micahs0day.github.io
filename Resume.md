@@ -6,7 +6,7 @@ published: true
 ---
 
 # Micah Funderburk
-## Likemicah@protonmail.com | NC | (336) 905-2668| https://micahs0day.github.io
+## Likemicah@protonmail.com | NC | (336) 905-2668
 
 
 ## Objective:
