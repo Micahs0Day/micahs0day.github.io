@@ -13,7 +13,7 @@ As a security-oriented system administrator, it is my responsibility to create a
 ## Patching is critical and always needs to be addressed in some manner.
 The Cybersecurity nerd in me always tries to keep a close ear to the ground and stay up to date on everything Cybersecurity related, I do this by following popular security feeds on twitter, listening to podcasts, and perusing major security blogs. With this massive influx of information, it is easy to get swept away with all the news about 0-days, vulnerabilities, and non-ethical hacking that is in the media. I mention this because whenever these security issues are uncovered, there is usually a swift response from manufacturers and vendors to release a patch to remediate the problem (as seen recently with the Microsoft exchange server vulnerabilities). Having a good vulnerability management program in place helps to reveal if these vulnerabilities exist within your systems, then you can assess the risk they pose and remediate them as you see fit. 
 
-A risk management program that includes patching can help mitigate risks such as:
+### A risk management program that includes patching can help mitigate risks such as:
 -	Data Breaches
 -	Ransomware
 -	Malware
@@ -44,7 +44,7 @@ Automating the patching/updating process is extremely important. No system admin
 In production environments, it’s not uncommon to find that specialized machinery uses deprecated software/Operating systems.
 
 
-### Testing patches before approving them for installation: 
+## Testing patches before approving them for installation: 
 
 Sometimes updates and patches break things. Best practice is to create a lab environment (preferably virtualized) to test patches and updates before deploying them to the production environment. 
 
