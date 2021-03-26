@@ -6,6 +6,7 @@ categories: blog
 comments: true
 ---
 
+
 ![]({{site.baseurl}}/images/patching.png)
 
 As a security-oriented system administrator, it is my responsibility to create and maintain a safe and stable environment for my company. Patching plays a vital role in helping me stay compliant in this area. Despite the many benefits that come from regularly patching our systems, there are also many pitfalls and obstacles accompanied with this critical part of my job.
