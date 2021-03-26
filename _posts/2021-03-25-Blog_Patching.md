@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Patching: A Necessary Frustration 
+title: Patching - A Necessary Evil
 published: true
 categories: blog
 comments: true
