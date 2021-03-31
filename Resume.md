@@ -21,7 +21,7 @@ published: true
 
 •  Competency with topics such as CIDR notation, segmentation & VLAN's, and various network protocols.
 
-•  Familiarity with tactics and techniques such as (MITRE ATT&CK, Kill Chain, OWASP, DOD 8531.01, Defense in depth, Zero-trust architecture, threat hunting, and Indicators of compromise.
+•  Familiarity with tactics and techniques such as (MITRE ATT&CK, Kill Chain, OWASP, DOD 8531.01, Defense in depth, threat hunting, and indicators of compromise.
 
 •  Linux and Windows servers/workstation administration.
 
