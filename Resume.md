@@ -41,9 +41,9 @@ published: true
 
 ## Relevant work experience:
 
-### *Box-Board Products, INC. | Greensboro, NC | August 2019 - Current* 
+### Box-Board Products, INC. | Greensboro, NC | August 2019 - Current
 
-### Systems Administrator – Data Center Manager
+### *Systems Administrator – Data Center Manager*
 
 •  Deployed, managed, and configured virtual machines using VMware ESXI platform, as well as SAN storage, NFS shares, datastores, and virtual networks.
 
@@ -55,7 +55,7 @@ published: true
 
 ## K2 Solutions | Southern-Pines, NC | July 2018 - December 2018 
 
-### Junior System Administrator (Intern)
+### *Junior System Administrator (Intern)*
 
 •  Configured Cisco Meraki firewall to block malicious IP addresses, and limit frivolous bandwidth usage by company employees, also deployed new switches and routers on the network.
 
