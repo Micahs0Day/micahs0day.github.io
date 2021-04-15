@@ -1,7 +1,7 @@
 ---
 YoutubeId: e7PAEYpd9oY
 layout: post
-title: Pfsense VLAN
+title: RED
 categories: labs
 published: true
 ---
