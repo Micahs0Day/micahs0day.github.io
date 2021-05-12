@@ -1,12 +1,12 @@
 ---
 YoutubeId: e7PAEYpd9oY
 layout: post
-title: RED
+title: Cybersecurity HomeLab Pt.1
 categories: labs
 published: true
 ---
 
-## TEST
+## Cybersecurity HomeLab Pt.1- PfSense Installation
 
 {% include youtubePlayer.html id=page.youtubeId %}
 
