@@ -1,7 +1,7 @@
 ---
 YoutubeId: e7PAEYpd9oY
 layout: post
-title: Cybersecurity HomeLab Pt.1
+title: HomeLab Series
 categories: labs
 published: true
 ---
