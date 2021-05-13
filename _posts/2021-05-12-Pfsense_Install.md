@@ -6,7 +6,7 @@ categories: labs
 published: true
 ---
 
-![]({{site.baseurl}}/images/Cyber_Lab_1.png)
+![]({{site.baseurl}}/images/seclabpt1.png)
 
 ## Cybersecurity HomeLab Pt.1- PfSense Installation
 
