@@ -6,7 +6,7 @@ published: true
 ---
 
 # Micah Funderburk
-## Likemicah@protonmail.com | NC | (336) 905-2668
+## Likemicah@protonmail.com | NC | (336) XXX-XXXX
 
 
 ## Objective:
@@ -14,6 +14,7 @@ published: true
 •  Position: SOC Analyst
 
 •  Looking to apply the skills and knowledge that I have acquired during my time as a System administrator and Cybersecurity student towards securing business infrastructures at a higher level. 
+
 
 ## Relevant Skills:
 
@@ -43,6 +44,17 @@ published: true
 • CompTIA Network+ 
 
 • Splunk Fundamentals 1 
+
+## Projects/Self-Study:
+
+• Virtualized home network using PfSense and ESXI, then segmented my home network with VLANs and firewall rules.
+
+• Installed honeypot on home network and implemented monitoring to analyze attacker behavior and collect malware samples.
+
+• Use exercises posted on MalwareTrafficAnalysis.net to study malicious traffic, inspect packets, and analyze malware.
+
+• Self-study using TryHackMe, RangeForce, and Udemy courses.
+
 
 ## Relevant work experience:
 
