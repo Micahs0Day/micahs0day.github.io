@@ -58,7 +58,7 @@ published: true
 
 ## Relevant work experience:
 
-#### > Box-Board Products, INC. | Greensboro, NC | August 2019 - Current
+#### >> Box-Board Products, INC. | Greensboro, NC | August 2019 - Current <<
 
 #### *Systems Administrator – Data Center Manager*
 
@@ -70,7 +70,7 @@ published: true
 
 •  Organized Cybersecurity training for end users and developed security standards and best practices for our organization.
 
-#### > K2 Solutions | Southern-Pines, NC | July 2018 - December 2018 
+#### >> K2 Solutions | Southern-Pines, NC | July 2018 - December 2018 <<
 
 #### *Junior System Administrator (Intern)*
 
