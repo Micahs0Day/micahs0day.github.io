@@ -8,6 +8,6 @@ youtubeId: 86aBBg5TVOY
 
 ![]({{site.baseurl}}/images/seclabpt2.png)
 
-## PfSense Installation
+## Network Segmentation
 
 {% include youtubePlayer.html id=page.youtubeId %}
