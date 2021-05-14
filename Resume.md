@@ -46,19 +46,19 @@ published: true
 
 ## Relevant work experience:
 
-#### Box-Board Products, INC. | Greensboro, NC | August 2019 - Current
+#### > Box-Board Products, INC. | Greensboro, NC | August 2019 - Current
 
 #### *Systems Administrator – Data Center Manager*
 
 •  Deployed, managed, and configured virtual machines using VMware ESXI platform, as well as SAN storage, NFS shares, datastores, and virtual networks.
 
-•  Implemented server patching/updating, firewall administration, endpoint AV management, troubleshooting.
+•  Automated server and workstation patching/updating. Managed firewalls, email security gateways, spam filters, endpoint antivirus, and content filtering proxy server. 
 
-•  Managed windows domain using GPO, PowerShell scripts, implemented stronger password policy.
+•  Managed organizations environment using automation, group policies, active directory, PowerShell. Managed endpoint computers, Windows, and Linux servers and provided helpdesk support to end users.
 
-•  Organized Cyber-Security training for end users (phishing simulations, awareness emails, threat updates).
+•  Organized Cybersecurity training for end users and developed security standards and best practices for our organization.
 
-#### K2 Solutions | Southern-Pines, NC | July 2018 - December 2018 
+#### > K2 Solutions | Southern-Pines, NC | July 2018 - December 2018 
 
 #### *Junior System Administrator (Intern)*
 
