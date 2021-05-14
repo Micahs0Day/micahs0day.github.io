@@ -92,4 +92,4 @@ published: true
 
 ## Hobbies:    	
 
-•  CTF’s, Arduino & Raspberry Pi Projects, fishing, 3D Modeling/Printing, PC gaming, home lab, movies, attending cyber-security conferences, and listening to Cyber-Security podcasts. 
+•  CTF’s, Arduino & Raspberry Pi Projects, fishing, 3D Modeling/Printing, PC gaming, home lab, movies, attending Cybersecurity conferences, and listening to Cybersecurity podcasts. 
