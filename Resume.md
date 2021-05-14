@@ -38,17 +38,17 @@ published: true
 
 ## Certifications:
 
-• CompTIA Security+ | July 6th, 2020
+• CompTIA Security+ 
 
-• CompTIA Network+ | March 2021 (Self-Studying currently)
+• CompTIA Network+ 
 
-• Splunk Certified Power User | March 2021 (Self-Studying currently)
+• Splunk Fundamentals 1 
 
 ## Relevant work experience:
 
-### Box-Board Products, INC. | Greensboro, NC | August 2019 - Current
+#### Box-Board Products, INC. | Greensboro, NC | August 2019 - Current
 
-### *Systems Administrator – Data Center Manager*
+#### *Systems Administrator – Data Center Manager*
 
 •  Deployed, managed, and configured virtual machines using VMware ESXI platform, as well as SAN storage, NFS shares, datastores, and virtual networks.
 
@@ -58,9 +58,9 @@ published: true
 
 •  Organized Cyber-Security training for end users (phishing simulations, awareness emails, threat updates).
 
-## K2 Solutions | Southern-Pines, NC | July 2018 - December 2018 
+#### K2 Solutions | Southern-Pines, NC | July 2018 - December 2018 
 
-### *Junior System Administrator (Intern)*
+#### *Junior System Administrator (Intern)*
 
 •  Configured Cisco Meraki firewall to block malicious IP addresses, and limit frivolous bandwidth usage by company employees, also deployed new switches and routers on the network.
 
@@ -72,9 +72,9 @@ published: true
 
 ## Education:
 
-### University of North Carolina at Pembroke | August 2015 - July 2019    
+#### University of North Carolina at Pembroke | August 2015 - July 2019    
  
-### *Bachelor of Science Information Technology w/ Concentration in Cyber Security* 
+#### *Bachelor of Science Information Technology w/ Concentration in Cyber Security* 
  
  •  Relevant Coursework: OO Programming, Java Programming, Computer Network & Data Communication, OS Networking & Security, Intro to System Admin & Shell, Software Development & Professional Practices, Intro to C, Computer and Network Security, Discrete Structures, Data Structures.
 
