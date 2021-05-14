@@ -11,25 +11,30 @@ published: true
 
 ## Objective:
 
-•  Position: Cyber-Security Analyst
+•  Position: SOC Analyst
 
-•  Looking to apply the skills and knowledge that I have acquired during my time as a System administrator and Cyber-Security student towards securing business infrastructures at a higher level. Also, I hope to gain experience in the Cyber-Security threat intelligence/analysis field. 
+•  Looking to apply the skills and knowledge that I have acquired during my time as a System administrator and Cybersecurity student towards securing business infrastructures at a higher level. 
 
 ## Relevant Skills:
 
-•  Vulnerability Scanning (Nessus, Nmap, OpenVAS)
+•  Experience with vulnerability management/scanning/detection (Nmap/OpenVAS/Nessus)
 
-•  Competency with topics such as CIDR notation, segmentation & VLAN's, and various network protocols.
+•  Competency with networking topics such as TCP/IP, segmentation & VLAN's, and various network protocols.
 
-•  Familiarity with tactics and techniques such as (MITRE ATT&CK, Kill Chain, OWASP, DOD 8531.01, Defense in depth, threat hunting, and indicators of compromise.
+•  Familiarity with frameworks and concepts such as MITRE ATT&CK, kill chain, DOD 8531.01, defense in depth, indicators of compromise, OSINT, and intrusion prevention/detection.
 
-•  Linux and Windows servers/workstation administration.
+•  Linux and Windows servers/workstations administration.
 
-•  Experience managing SIEM and log management (Splunk).
+•  Packet inspection and traffic analysis (Wireshark).
 
-•  Experience coding/scripting with PHP, PowerShell, bash, and Java.
+•  Experience using SIEM and managing windows logs (Splunk).
 
-•  Experienced in managing a malware defense program. (Email security gateways, spam filters, endpoint AV)
+•  Coding/scripting with PHP, PowerShell, bash, and Java.
+
+•  Management of malware defense & detection program. (Email security gateways, spam filters, endpoint AV, and content filtering proxy server)
+
+•  Excellent writing skills
+
 
 ## Certifications:
 
