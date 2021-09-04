@@ -21,5 +21,5 @@ Passionate for all things tech, both software and hardware related. In my spare 
 
 ### Contact me
 
-[LikeMicah@Protonmail.com](mailto:likemicah@protonmail.com)
+[LinkedIn](https://www.linkedin.com/in/micah-funderburk/)
 
