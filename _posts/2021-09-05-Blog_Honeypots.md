@@ -1,6 +1,6 @@
 --- 
 layout: post 
-title: Honeypots: The Art of Deception  
+title: Honeypots - The Art of Deception  
 published: true 
 categories: blog 
 comments: true 
