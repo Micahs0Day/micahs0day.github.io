@@ -58,7 +58,7 @@ published: true
 
 ## Relevant work experience:
 
-#### >> Box-Board Products, INC. | Greensboro, NC | August 2019 - Current <<
+#### >> Box-Board Products, INC. | Greensboro, NC | August 2019 - July 2021
 
 #### *Systems Administrator – Data Center Manager*
 
