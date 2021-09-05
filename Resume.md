@@ -6,7 +6,7 @@ published: true
 ---
 
 # Micah Funderburk
-## Likemicah@protonmail.com | NC | (336) XXX-XXXX
+## xxxxxxx@protonmail.com | NC | (336) XXX-XXXX
 
 
 ## Objective:
