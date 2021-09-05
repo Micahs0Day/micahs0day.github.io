@@ -1,6 +1,6 @@
 --- 
 layout: post 
-title: Example Title  
+title: Honeypots: The Art of Deception  
 published: true 
 categories: blog 
 comments: true 
