@@ -1,7 +1,7 @@
 --- 
 layout: post 
 title: Honeypots - The Art of Deception  
-published: true 
+published: false 
 categories: blog 
 comments: true 
 --- 
@@ -20,3 +20,4 @@ Honeypots and other deception technologies are used to mimic legitimate systems 
 -	Best Practices
 -	Why Not?
 
+G
