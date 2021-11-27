@@ -6,7 +6,7 @@ published: true
 youtubeId: N_IlfgIWWMg
 ---
 
-![]({{site.baseurl}}/images/seclabpt3.png)
+![]({{site.baseurl}}/images/seclabpt3.jpg)
 
 ## DMZ Setup
 
