@@ -17,7 +17,9 @@ Passionate for all things tech, both software and hardware related. In my spare 
 
 -Network+ (March 2021)
 
--Splunk Power User (March 2021)
+-Splunk Fundamentals I & II
+
+-CySA+ (December 2021)
 
 ### Contact me
 
