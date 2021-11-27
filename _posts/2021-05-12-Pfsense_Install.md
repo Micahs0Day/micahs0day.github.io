@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cybersecurity HomeLab Pt.1
+title: Cybersecurity HomeLab Pt.1 (PfSense Installation)
 categories: labs
 published: true
 youtubeId: e7PAEYpd9oY
