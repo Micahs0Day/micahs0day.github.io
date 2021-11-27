@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cybersecurity HomeLab Pt.2 (DMZ Setup)
+title: Cybersecurity HomeLab Pt.3 (DMZ Setup)
 categories: labs
 published: true
 youtubeId: N_IlfgIWWMg
