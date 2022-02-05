@@ -9,17 +9,15 @@ Cyber-Security Professional with strong technical expertise in the field of syst
 
 Passionate for all things tech, both software and hardware related. In my spare time I tinker with my home lab, do rooms on TryHackMe, listen to Cyber-Security podcasts and tinker with electronics including raspberry pi's, Arduino, and 3D printers. Also every once in a blue moon you will catch me playing Squad on PC.
 
-### More Information
+### Certifications:
 
--Black Cyber Security Association Member (January 2020 - Present)
+- CompTIA Security+ 
 
--Security+ (July 2020)
+- CompTIA Network+ 
 
--Network+ (March 2021)
+- Splunk Fundamentals I & II 
 
--Splunk Fundamentals I & II
-
--CySA+ (December 2021)
+- CompTIA CySA+ 
 
 ### Contact me
 
