@@ -6,7 +6,7 @@ categories: blog
 comments: true
 ---
 
-![]({{site.baseurl}}/images/blueteam.jpg)
+![]({{site.baseurl}}/images/blueboy.jpg)
 
 ## Start Here (**Under Construction**):
 
