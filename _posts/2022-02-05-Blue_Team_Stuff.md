@@ -25,7 +25,7 @@ If you have no networking experience prior to taking the Network+ then I recomme
 
 ### Python:
 
-[r/Python](https://www.reddit.com/r/PowerShell/)
+[r/Python](https://www.reddit.com/r/Python/)
 
 [Automate the Boring Stuff](https://www.amazon.com/Automate-Boring-Stuff-Python-2nd/dp/1593279922?ref_=ast_sto_dp)
 
@@ -80,11 +80,16 @@ eLearnSecurity, the creator of the eLearnSecurity certification suite, was recen
 
 [HackerSploit](https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q)
 
-## Bonus: 
+## Cyber-Security Community: 
+
+[BSIDES](http://www.securitybsides.com/w/page/12194156/FrontPage)
+(Description goes here..)
+
+[Reddit - NetSecStudents](https://www.reddit.com/r/netsecstudents/)
 
 [Black Cyber-Security Association](https://blackcybersecurityassociation.org/)
 
-The BCA (Black Cyber-Security Association) aims to close the diversity gap in Cyber-Security and tech in general. They have Certification prep groups, clubhouse talks, home-lab tutorials, a very active discord, and are becoming a very prominent force in the Cyber-Security community. This is a group where you can find a mentor, volunteer your time, and become a part of something greater than yourself. The BCA is also inclusive, meaning that anyone can join. Amazing people and fantastic work being done by these people. 10/10 – HIGHLY recommend. 
+The BCA (Black Cyber-Security Association) aims to close the diversity gap in Cyber-Security and tech in general. They have Certification prep groups, clubhouse talks, home-lab tutorials, a very active discord, and are becoming a very prominent force in the Cyber-Security community. This is a group where you can find a mentor, volunteer your time, and become a part of something greater than yourself. The BCA is also inclusive, meaning that anyone can join.
 
 
 
