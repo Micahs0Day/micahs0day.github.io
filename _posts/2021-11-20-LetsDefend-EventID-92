@@ -11,5 +11,3 @@ youtubeId: UerGFhzr8kQ
 ## LetsDefend - SOC Analyst - Event ID #92: Ransomware Detected
 
 {% include youtubePlayer.html id=page.youtubeId %}
-
-
