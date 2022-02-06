@@ -6,7 +6,7 @@ published: true
 youtubeId: 7xptJSQcl4U
 ---
 
-![]({{site.baseurl}}/images/eventid89.png)
+![]({{site.baseurl}}/images/eventid89.jpg)
 
 ## LetsDefend - SOC Analyst - Event ID #89: Multiple HTTP 500 Response
 
