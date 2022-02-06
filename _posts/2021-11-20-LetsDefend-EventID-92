@@ -1,13 +1,1 @@
----
-layout: post
-title: LetsDefend - SOC Analyst - Event ID #92: Ransomware Detected
-categories: writeups
-published: true
-youtubeId: UerGFhzr8kQ
----
 
-![]({{site.baseurl}}/images/Event ID# 92 - RansomeWare Detected.jpg)
-
-## LetsDefend - SOC Analyst - Event ID #92: Ransomware Detected
-
-{% include youtubePlayer.html id=page.youtubeId %}
