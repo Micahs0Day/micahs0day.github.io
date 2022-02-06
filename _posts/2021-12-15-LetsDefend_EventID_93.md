@@ -6,7 +6,7 @@ published: true
 youtubeId: SZ53u31puoI
 ---
 
-![]({{site.baseurl}}/images/eventid93.jpg)
+![](https://youtu.be/SZ53u31puoI)
 
 ## LetsDefend - SOC Analyst - Event ID #93: Phishing Email Detected - Excel 4.0 Macros
 
