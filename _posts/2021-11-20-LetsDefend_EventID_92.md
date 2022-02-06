@@ -6,7 +6,7 @@ published: true
 youtubeId: UerGFhzr8kQ
 ---
 
-![]({{site.baseurl}}/images/eventid92.jpg)
+![]({{site.baseurl}}/images/eventid92.png)
 
 ## LetsDefend - SOC Analyst - Event ID #92: Ransomware Detected
 
