@@ -1,6 +1,6 @@
 ---
 layout: post
-title: LetsDefend|SOC Analyst|Event ID# 92: Ransomware Detected
+title: LetsDefend
 categories: writeups
 published: true
 youtubeId: UerGFhzr8kQ
