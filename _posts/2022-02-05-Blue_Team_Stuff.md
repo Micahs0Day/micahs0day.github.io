@@ -65,7 +65,7 @@ This course was recommended by a Senior Incident colleague. If you want to get m
 
 # Extras:
 
-### Active Directory:
+### <ins> Active Directory: </ins>
 
 > [Build an AD Lab with TCM](https://www.youtube.com/watch?v=xftEuVQ7kY0)
 
