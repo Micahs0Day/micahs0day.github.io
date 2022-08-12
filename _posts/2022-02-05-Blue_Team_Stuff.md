@@ -24,40 +24,40 @@ This course was recommended by a Senior analyst. If you want to get more familia
 ***
 ### <ins> Networking Fundamentals: </ins>
 
-[Cisco CCNA](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html)
+> [Cisco CCNA](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html)
 
-[CompTIA Network+](https://www.comptia.org/certifications/network)
+> [CompTIA Network+](https://www.comptia.org/certifications/network)
 
-[101 Labs - CompTIA Network+](https://www.amazon.com/101-Labs-CompTIA-Paul-Browning/dp/1726841294/ref=sr_1_2?dchild=1&keywords=101+labs&qid=1614006944&sr=8-2/)
+> [101 Labs - CompTIA Network+](https://www.amazon.com/101-Labs-CompTIA-Paul-Browning/dp/1726841294/ref=sr_1_2?dchild=1&keywords=101+labs&qid=1614006944&sr=8-2/)
 
 ### <ins> Security Operations: </ins>
 
-[CompTIA Security+](https://www.comptia.org/certifications/security)
+> [CompTIA Security+](https://www.comptia.org/certifications/security)
 
-[CompTIA CySA+](https://www.comptia.org/certifications/cybersecurity-analyst)
+> [CompTIA CySA+](https://www.comptia.org/certifications/cybersecurity-analyst)
 
 ### <ins> Hands on Security Operations: </ins>
 
-[Security Blue Team BTL1](https://securityblue.team/why-btl1/)
+> [Security Blue Team BTL1](https://securityblue.team/why-btl1/)
 
-[Certified CyberDefender (CCD)](https://cyberdefenders.org/blueteam-training/courses/certified-cyberdefender/) <br>
+> [Certified CyberDefender (CCD)](https://cyberdefenders.org/blueteam-training/courses/certified-cyberdefender/) <br>
 *Full disclaimer, not much is known about this certification course, however CyberDefenders is a well known and vetted platform.*
 
 <br>
 
 # Training Platforms:
 ***
-[TryHackMe](https://tryhackme.com/path/outline/blueteam) <br>
+> [TryHackMe](https://tryhackme.com/path/outline/blueteam) <br>
 *The CyberDefender path is phenominal! Can also be used as a resource to study for the CompTIA CySA+.*
 
-[LetsDefend.io](https://letsdefend.io/)
+> [LetsDefend.io](https://letsdefend.io/)
 
-[CyberDefenders](https://cyberdefenders.org/) <br>
+> [CyberDefenders](https://cyberdefenders.org/) <br>
 *Amazing resource, contains tons of hands on lab activities, FOR FREE!!!*
 
-[BTLO](https://blueteamlabs.online/)
+> [BTLO](https://blueteamlabs.online/)
 
-[Splunk BOTS](https://bots.splunk.com/) <br>
+> [Splunk BOTS](https://bots.splunk.com/) <br>
 *Using this currently to level up my SPL/Investigation skills in Splunk. Highly recommend!*
 
 <br>
