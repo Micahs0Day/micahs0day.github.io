@@ -63,7 +63,7 @@ As a SOC analyst, most of your time will be spent inside of a SIEM so it’s pro
 ***
 [I.T Security Labs](https://www.youtube.com/c/ITSecurityLabs)
 
-*One of my inspirations for my home-lab, I love his threat detection and lab videos, can't recommend more!*
+*One of my inspirations for my home-lab, I love his threat detection and lab videos, couldn't recommend more!*
 
 [Gerald Auger](https://www.youtube.com/c/GeraldAuger)
 
