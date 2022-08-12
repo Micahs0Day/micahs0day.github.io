@@ -11,6 +11,12 @@ comments: true
 [SOC Core Skills](https://www.antisyphontraining.com/soc-core-skills-w-john-strand/)
 
 ## Certifications:
+Active Directory:
+
+[Build an AD Lab with TCM](https://www.youtube.com/watch?v=xftEuVQ7kY0)
+
+[AD Security](https://adsecurity.org/)
+
 Networking Fundamentals:
 
 [CCNA](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html)
