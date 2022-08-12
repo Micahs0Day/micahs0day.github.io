@@ -21,7 +21,7 @@ This course was recommended by a Senior analyst. If you want to get more familia
 
 ## Certifications:
 ***
-**Networking Fundamentals:**
+<u> ### Networking Fundamentals: </u>
 
 [Cisco CCNA](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html)
 
