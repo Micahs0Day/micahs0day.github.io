@@ -31,7 +31,7 @@ This course was recommended by a Senior Incident colleague. If you want to get m
 *A great certification that gives the student a broad overview of common network protocols, implementations, operations, and troubleshooting. Even includes a bit of network security content.*
 
 > [101 Labs - CompTIA Network+](https://www.amazon.com/101-Labs-CompTIA-Paul-Browning/dp/1726841294/ref=sr_1_2?dchild=1&keywords=101+labs&qid=1614006944&sr=8-2/) <br>
-*Networking labs that you can do at home to prepare for the Network+ or just get hands on Networking experience.*
+*Networking labs that you can do at home to prepare for the Network+ OR to just get hands on Networking experience.*
 
 ### <ins> Security Operations: </ins>
 
