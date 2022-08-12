@@ -27,23 +27,25 @@ As a SOC analyst, most of your time will be spent inside of a SIEM so it’s pro
 
 **Networking Fundamentals:**
 
-[CCNA](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html)
+[Cisco CCNA](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html)
 
-[Network+](https://www.comptia.org/certifications/network)
+[CompTIA Network+](https://www.comptia.org/certifications/network)
 
 **Security Operations:**
 
-[Security+](https://www.comptia.org/certifications/security)
+[CompTIA Security+](https://www.comptia.org/certifications/security)
 
-[CySA+](https://www.comptia.org/certifications/cybersecurity-analyst)
+[CompTIA CySA+](https://www.comptia.org/certifications/cybersecurity-analyst)
 
 **Hands on Security Operations:**
 
-[BTL1](https://securityblue.team/why-btl1/)
+[Security Blue Team BTL1](https://securityblue.team/why-btl1/)
 
 ## Training Platforms:
 ***
 [TryHackMe](https://tryhackme.com/path/outline/blueteam)
+
+The CyberDefender path is phenominal! Can also be used as a resource to study for the CompTIA CySA+.
 
 [LetsDefend.io](https://letsdefend.io/)
 
