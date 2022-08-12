@@ -45,33 +45,33 @@ As a SOC analyst, most of your time will be spent inside of a SIEM so it’s pro
 ***
 [TryHackMe](https://tryhackme.com/path/outline/blueteam)
 
-The CyberDefender path is phenominal! Can also be used as a resource to study for the CompTIA CySA+.
+*The CyberDefender path is phenominal! Can also be used as a resource to study for the CompTIA CySA+.*
 
 [LetsDefend.io](https://letsdefend.io/)
 
 [CyberDefenders](https://cyberdefenders.org/)
 
-Amazing resource, contains tons of hands on lab activities, FOR FREE!!!
+*Amazing resource, contains tons of hands on lab activities, FOR FREE!!!*
 
 [BTLO](https://blueteamlabs.online/)
 
 [Splunk BOTS](https://bots.splunk.com/)
 
-Using this currently to level up my SPL/Investigation skills in Splunk. Highly recommend!
+*Using this currently to level up my SPL/Investigation skills in Splunk. Highly recommend!*
 
 ## Content Creators:
 ***
 [I.T Security Labs](https://www.youtube.com/c/ITSecurityLabs)
 
-One of my inspirations for my home-lab, I love his threat detection and lab videos, can't recommend more!
+*One of my inspirations for my home-lab, I love his threat detection and lab videos, can't recommend more!*
 
 [Gerald Auger](https://www.youtube.com/c/GeraldAuger)
 
-Dr. Auger is extremely active in the Cyber community, I learn so much from this channel!
+*Dr. Auger is extremely active in the Cyber community and his interviews are top notch! I learn so much from this channel!*
 
 [Josh Madakor](https://www.youtube.com/c/JoshMadakor)
 
-One of my favorite YouTubers by far, has amazing content and a breadth of knowledge that is unmatched.
+*One of my favorite YouTubers by far, has amazing content and a breadth of knowledge that is unmatched.*
 
 [BHIS](https://www.youtube.com/c/BlackHillsInformationSecurity)
 
