@@ -51,9 +51,13 @@ The CyberDefender path is phenominal! Can also be used as a resource to study fo
 
 [CyberDefenders](https://cyberdefenders.org/)
 
+Amazing resource, contains tons of hands on lab activities, FOR FREE!!!
+
 [BTLO](https://blueteamlabs.online/)
 
 [Splunk BOTS](https://bots.splunk.com/)
+
+Using this currently to level up my SPL/Investigation skills in Splunk. Highly recommend!
 
 ## Content Creators:
 ***
