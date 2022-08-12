@@ -9,7 +9,7 @@ comments: true
 
 ## Courses:
 ***
-[SOC Core Skills](https://www.antisyphontraining.com/soc-core-skills-w-john-strand/)
+[SOC Core Skills](https://www.antisyphontraining.com/soc-core-skills-w-john-strand/) (<br>)
 John Strand is a legend in the infosec/cyber space. This "Pay what you can" training is a great way to get introduced to core skills needed by SOC analysts, and the payment model allows practically anyone to participate. I haven't had the privilege of attending this course yet, but it comes highly recommended.
 
 [Splunk Power User](https://www.udemy.com/course/splunk-zero-to-power-user/)
