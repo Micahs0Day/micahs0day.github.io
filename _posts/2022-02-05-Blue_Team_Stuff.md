@@ -35,7 +35,8 @@ This course was recommended by a Senior analyst. If you want to get more familia
 
 [CompTIA CySA+](https://www.comptia.org/certifications/cybersecurity-analyst)
 
-** ### Hands on Security Operations:** <br>
+### Hands on Security Operations:
+
 [Security Blue Team BTL1](https://securityblue.team/why-btl1/)
 
 [Certified CyberDefender (CCD)](https://cyberdefenders.org/blueteam-training/courses/certified-cyberdefender/) <br>
@@ -43,25 +44,22 @@ This course was recommended by a Senior analyst. If you want to get more familia
 
 ## Training Platforms:
 ***
-[TryHackMe](https://tryhackme.com/path/outline/blueteam)
-
+[TryHackMe](https://tryhackme.com/path/outline/blueteam) <br>
 *The CyberDefender path is phenominal! Can also be used as a resource to study for the CompTIA CySA+.*
 
 [LetsDefend.io](https://letsdefend.io/)
 
-[CyberDefenders](https://cyberdefenders.org/)
-
+[CyberDefenders](https://cyberdefenders.org/) <br>
 *Amazing resource, contains tons of hands on lab activities, FOR FREE!!!*
 
 [BTLO](https://blueteamlabs.online/)
 
-[Splunk BOTS](https://bots.splunk.com/)
-
+[Splunk BOTS](https://bots.splunk.com/) <br>
 *Using this currently to level up my SPL/Investigation skills in Splunk. Highly recommend!*
 
 ## Extras:
 
-**Active Directory:**
+### Active Directory:
 
 > [Build an AD Lab with TCM](https://www.youtube.com/watch?v=xftEuVQ7kY0)
 
@@ -70,16 +68,13 @@ This course was recommended by a Senior analyst. If you want to get more familia
 
 ## Content Creators:
 ***
-[I.T Security Labs](https://www.youtube.com/c/ITSecurityLabs)
-
+[I.T Security Labs](https://www.youtube.com/c/ITSecurityLabs) <br>
 *One of my inspirations for my home-lab, I love his threat detection and lab videos, couldn't recommend more!*
 
-[Gerald Auger](https://www.youtube.com/c/GeraldAuger)
-
+[Gerald Auger](https://www.youtube.com/c/GeraldAuger) <br>
 *Dr. Auger is extremely active in the Cyber community and his interviews are top notch! I learn so much from this channel!*
 
-[Josh Madakor](https://www.youtube.com/c/JoshMadakor)
-
+[Josh Madakor](https://www.youtube.com/c/JoshMadakor) <br>
 *One of my favorite YouTubers by far, has amazing content and a breadth of knowledge that is unmatched.*
 
 [BHIS](https://www.youtube.com/c/BlackHillsInformationSecurity)
