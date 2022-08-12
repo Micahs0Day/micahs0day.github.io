@@ -88,8 +88,6 @@ This course was recommended by a Senior Incident colleague. If you want to get m
 [Josh Madakor](https://www.youtube.com/c/JoshMadakor) <br>
 *One of my favorite YouTubers by far, has amazing content and a breadth of knowledge that is unmatched.*
 
-[BHIS](https://www.youtube.com/c/BlackHillsInformationSecurity)
-
 [Day CyberWox](https://www.youtube.com/c/DayCyberwox) <br>
 *This guy's story is amazing, he managed to climb the ranks to Cybersecurity Engineer by the age of ~19. Really inspirational!*
 
@@ -98,6 +96,7 @@ This course was recommended by a Senior Incident colleague. If you want to get m
 
 [Active Counter Measures](https://www.youtube.com/c/ActiveCountermeasures)
 
+[BHIS](https://www.youtube.com/c/BlackHillsInformationSecurity)
 
 
 <br>
