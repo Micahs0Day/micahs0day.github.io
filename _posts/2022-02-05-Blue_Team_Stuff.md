@@ -57,9 +57,15 @@ As a SOC analyst, most of your time will be spent inside of a SIEM so it’s pro
 ***
 [I.T Security Labs](https://www.youtube.com/c/ITSecurityLabs)
 
+One of my inspirations for my home-lab, I love his threat detection and lab videos, can't recommend more!
+
 [Gerald Auger](https://www.youtube.com/c/GeraldAuger)
 
+Dr. Auger is extremely active in the Cyber community, I learn so much from this channel!
+
 [Josh Madakor](https://www.youtube.com/c/JoshMadakor)
+
+One of my favorite YouTubers by far, has amazing content and a breadth of knowledge that is unmatched.
 
 [BHIS](https://www.youtube.com/c/BlackHillsInformationSecurity)
 
