@@ -86,6 +86,7 @@ This course was recommended by a Senior analyst. If you want to get more familia
 [BHIS](https://www.youtube.com/c/BlackHillsInformationSecurity)
 
 [Day CyberWox](https://www.youtube.com/c/DayCyberwox)
+*This guy's story is amazing, he managed to climb the ranks to Cybersecurity Engineer by the age of ~19. Really inspirational!
 
 [Active Counter Measures](https://www.youtube.com/c/ActiveCountermeasures)
 
