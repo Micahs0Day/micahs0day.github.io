@@ -39,7 +39,7 @@ This course was recommended by a Senior Incident colleague. If you want to get m
 *Fulfills the DoD 8570 compliance requirement and is one of the most well-known Security certifications. A lot of private companies require this certification for security operations positions.*
 
 > [CompTIA CySA+](https://www.comptia.org/certifications/cybersecurity-analyst) <br>
-*Next step up from the CySA+, piggybacks on a lot of the material covered in the Security+, great for those wanting to level up their skills and validate their security knowledge.*
+*Next step up from the CySA+. This certification piggybacks on a lot of the material covered in the Security+, great for those wanting to level up their skills and validate their security knowledge.*
 
 ### <ins> Hands on Security Operations: </ins>
 
