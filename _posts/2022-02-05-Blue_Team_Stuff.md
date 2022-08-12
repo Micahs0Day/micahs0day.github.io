@@ -18,7 +18,7 @@ As a SOC analyst, most of your time will be spent inside of a SIEM so it’s pro
 [MITRE ATT&CK Defender™ (MAD)](https://www.cybrary.it/course/mitre-attack-defender-mad-attack-fundamentals/) <br>
 This course was recommended by a Senior analyst. If you want to get more familiar with attacker TTP's/Threat intelligence/Adversary detection, then this is the course for you.
 
-
+<br>
 
 # Certifications:
 ***
@@ -43,7 +43,7 @@ This course was recommended by a Senior analyst. If you want to get more familia
 [Certified CyberDefender (CCD)](https://cyberdefenders.org/blueteam-training/courses/certified-cyberdefender/) <br>
 *Full disclaimer, not much is known about this certification course, however CyberDefenders is a well known and vetted platform.*
 
-
+<br>
 
 # Training Platforms:
 ***
@@ -60,7 +60,7 @@ This course was recommended by a Senior analyst. If you want to get more familia
 [Splunk BOTS](https://bots.splunk.com/) <br>
 *Using this currently to level up my SPL/Investigation skills in Splunk. Highly recommend!*
 
-
+<br>
 
 # Extras:
 
@@ -70,7 +70,7 @@ This course was recommended by a Senior analyst. If you want to get more familia
 
 > [AD Security](https://adsecurity.org/)
 
-
+<br>
 
 # Content Creators:
 ***
@@ -91,7 +91,7 @@ This course was recommended by a Senior analyst. If you want to get more familia
 
 [John Hubbard](https://www.youtube.com/c/SecHubb)
 
-
+<br>
 
 # Cyber-Security Community on Reddit:
 ***
