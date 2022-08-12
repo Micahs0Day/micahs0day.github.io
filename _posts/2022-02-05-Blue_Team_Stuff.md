@@ -19,19 +19,19 @@ comments: true
 
 [AD Security](https://adsecurity.org/)
 
-Networking Fundamentals:
+**Networking Fundamentals:**
 
 [CCNA](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html)
 
 [Network+](https://www.comptia.org/certifications/network)
 
-Security Operations:**
+**Security Operations:**
 
 [Security+](https://www.comptia.org/certifications/security)
 
 [CySA+](https://www.comptia.org/certifications/cybersecurity-analyst)
 
-Hands on Security Operations:
+**Hands on Security Operations:**
 
 [BTL1](https://securityblue.team/why-btl1/)
 
