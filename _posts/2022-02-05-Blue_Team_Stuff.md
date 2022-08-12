@@ -55,7 +55,7 @@ This course was recommended by a Senior analyst. If you want to get more familia
 > [CyberDefenders](https://cyberdefenders.org/) <br>
 *Amazing resource, contains tons of hands on lab activities, FOR FREE!!!*
 
-> [BTLO](https://blueteamlabs.online/)
+> [Blue Team Labs Online](https://blueteamlabs.online/)
 
 > [Splunk BOTS](https://bots.splunk.com/) <br>
 *Using this currently to level up my SPL/Investigation skills in Splunk. Highly recommend!*
