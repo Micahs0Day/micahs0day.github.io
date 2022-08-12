@@ -28,14 +28,12 @@ This course was recommended by a Senior analyst. If you want to get more familia
 
 [101 Labs - CompTIA Network+](https://www.amazon.com/101-Labs-CompTIA-Paul-Browning/dp/1726841294/ref=sr_1_2?dchild=1&keywords=101+labs&qid=1614006944&sr=8-2/)
 
-**Security Operations:**
-
+**Security Operations:** <br>
 [CompTIA Security+](https://www.comptia.org/certifications/security)
 
 [CompTIA CySA+](https://www.comptia.org/certifications/cybersecurity-analyst)
 
-**Hands on Security Operations:**
-
+**Hands on Security Operations:** <br>
 [Security Blue Team BTL1](https://securityblue.team/why-btl1/)
 
 ## Training Platforms:
