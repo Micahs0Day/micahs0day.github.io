@@ -39,7 +39,8 @@ This course was recommended by a Senior Incident colleague. If you want to get m
 
 ### <ins> Hands on Security Operations: </ins>
 
-> [Security Blue Team BTL1](https://securityblue.team/why-btl1/)
+> [Security Blue Team BTL1](https://securityblue.team/why-btl1/) <br>
+*Practical 24-hour incident response exam, that covers 6 domains (Security Fundementals/Phishing Analysis/Threat Intelligence/Digital Forensics/SIEM/Incident Response). Looking forward to taking this one!!*
 
 > [Certified CyberDefender (CCD)](https://cyberdefenders.org/blueteam-training/courses/certified-cyberdefender/) <br>
 *Full disclaimer, not much is known about this certification course, however CyberDefenders is a well known and vetted platform.*
