@@ -21,9 +21,9 @@ As a SOC analyst, most of your time will be spent inside of a SIEM so it’s pro
 ***
 **Active Directory:**
 
-[Build an AD Lab with TCM](https://www.youtube.com/watch?v=xftEuVQ7kY0)
+> [Build an AD Lab with TCM](https://www.youtube.com/watch?v=xftEuVQ7kY0)
 
-[AD Security](https://adsecurity.org/)
+> [AD Security](https://adsecurity.org/)
 
 **Networking Fundamentals:**
 
