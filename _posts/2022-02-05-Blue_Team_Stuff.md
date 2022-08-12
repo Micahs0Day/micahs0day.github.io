@@ -19,6 +19,7 @@ As a SOC analyst, most of your time will be spent inside of a SIEM so it’s pro
 This course was recommended by a Senior analyst. If you want to get more familiar with attacker TTP's/Threat intelligence/Adversary detection, then this is the course for you.
 
 
+
 # Certifications:
 ***
 ### <ins> Networking Fundamentals: </ins>
@@ -42,6 +43,8 @@ This course was recommended by a Senior analyst. If you want to get more familia
 [Certified CyberDefender (CCD)](https://cyberdefenders.org/blueteam-training/courses/certified-cyberdefender/) <br>
 *Full disclaimer, not much is known about this certification course, however CyberDefenders is a well known and vetted platform.*
 
+
+
 # Training Platforms:
 ***
 [TryHackMe](https://tryhackme.com/path/outline/blueteam) <br>
@@ -57,6 +60,8 @@ This course was recommended by a Senior analyst. If you want to get more familia
 [Splunk BOTS](https://bots.splunk.com/) <br>
 *Using this currently to level up my SPL/Investigation skills in Splunk. Highly recommend!*
 
+
+
 # Extras:
 
 ### Active Directory:
@@ -64,6 +69,7 @@ This course was recommended by a Senior analyst. If you want to get more familia
 > [Build an AD Lab with TCM](https://www.youtube.com/watch?v=xftEuVQ7kY0)
 
 > [AD Security](https://adsecurity.org/)
+
 
 
 # Content Creators:
@@ -84,6 +90,8 @@ This course was recommended by a Senior analyst. If you want to get more familia
 [Active Counter Measures](https://www.youtube.com/c/ActiveCountermeasures)
 
 [John Hubbard](https://www.youtube.com/c/SecHubb)
+
+
 
 # Cyber-Security Community on Reddit:
 ***
