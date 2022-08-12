@@ -10,8 +10,10 @@ comments: true
 ## Courses:
 [SOC Core Skills](https://www.antisyphontraining.com/soc-core-skills-w-john-strand/)
 
+[Splunk Power User](https://www.udemy.com/course/splunk-zero-to-power-user/)
+
 ## Certifications:
-Active Directory:
+**Active Directory:**
 
 [Build an AD Lab with TCM](https://www.youtube.com/watch?v=xftEuVQ7kY0)
 
@@ -23,7 +25,7 @@ Networking Fundamentals:
 
 [Network+](https://www.comptia.org/certifications/network)
 
-Security Operations:
+Security Operations:**
 
 [Security+](https://www.comptia.org/certifications/security)
 
@@ -54,6 +56,7 @@ Hands on Security Operations:
 [Day CyberWox](https://www.youtube.com/c/DayCyberwox)
 
 [Active Counter Measures](https://www.youtube.com/c/ActiveCountermeasures)
+
 [John Hubbard](https://www.youtube.com/c/SecHubb)
 
 ## Cyber-Security Community on Reddit: 
