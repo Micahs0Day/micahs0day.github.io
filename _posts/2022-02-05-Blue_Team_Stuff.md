@@ -25,7 +25,7 @@ This course was recommended by a Senior Incident colleague. If you want to get m
 ### <ins> Networking Fundamentals: </ins>
 
 > [Cisco CCNA](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html) <br>
-*Probably the most recognized networking certification in the world, probably a bit overkill for a junior/entry level analyst, however networking is extremely important in Cyber-Security, if you don't take this cert, take the Network+ or at least complete the training material. You can find free resources all over YouTube.*
+*Probably the most recognized networking certification in the world. Networking is extremely important in Cyber-Security, if you don't take this cert, take the CompTIA Network+ or at least complete the training material. You can find free resources all over YouTube.*
 
 > [CompTIA Network+](https://www.comptia.org/certifications/network)
 
