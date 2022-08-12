@@ -11,7 +11,11 @@ comments: true
 ***
 [SOC Core Skills](https://www.antisyphontraining.com/soc-core-skills-w-john-strand/)
 
+John Strand is a legend in the infosec/cyber space. This "Pay what you can" training is a great way to get introduced to core skills needed by SOC analysts, and the payment model allows practically anyone to participate. I haven't had the privilege of attending this course yet, but it comes highly recommended.
+
 [Splunk Power User](https://www.udemy.com/course/splunk-zero-to-power-user/)
+
+As a SOC analyst, most of your time will be spent inside of a SIEM so it’s profitable to get familiar with one fast. Splunk is a very popular SIEM and takes up a large majority of the market share. This course helps to acclimate you to working with analytics and SPL in Splunk. After taking this course, you put yourself in a great position to pass the "Splunk Core Certified Power User" certification exam. Passing it will make yourself more marketable to recruiters/HR.
 
 ## Certifications:
 ***
@@ -46,6 +50,8 @@ comments: true
 [CyberDefenders](https://cyberdefenders.org/)
 
 [BTLO](https://blueteamlabs.online/)
+
+[Splunk BOTS](https://bots.splunk.com/)
 
 ## Content Creators:
 ***
