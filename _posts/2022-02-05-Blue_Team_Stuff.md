@@ -65,11 +65,13 @@ This course was recommended by a Senior Incident colleague. If you want to get m
 
 # Extras:
 
-### <ins> Active Directory: </ins>
+### <ins> Windows Domain/Active Directory: </ins>
 
 > [Build an AD Lab with TCM](https://www.youtube.com/watch?v=xftEuVQ7kY0)
 
 > [AD Security](https://adsecurity.org/)
+
+> [SANS DFIR Webcast - Incident Response Event Log Analysis](https://www.youtube.com/watch?v=Xw536W7kbDQ)
 
 <br>
 
