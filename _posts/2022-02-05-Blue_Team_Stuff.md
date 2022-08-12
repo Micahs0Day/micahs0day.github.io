@@ -95,9 +95,11 @@ This course was recommended by a Senior Incident colleague. If you want to get m
 [John Hubbard](https://www.youtube.com/c/SecHubb) <br>
 *Really awesome SANS instructor that breaks down complicated topics into an easily digestible, beginner friendly format*
 
-[Active Counter Measures](https://www.youtube.com/c/ActiveCountermeasures)
+[BHIS](https://www.youtube.com/c/BlackHillsInformationSecurity) <br>
+*Black Hills is a pillar in the Cybersecurity community, they own several companies (incluing Active Counter Measures) and provide plenty of free/paid/affordable training and webinars*
 
-[BHIS](https://www.youtube.com/c/BlackHillsInformationSecurity)
+[Active Counter Measures](https://www.youtube.com/c/ActiveCountermeasures) <br>
+*See BHIS*
 
 
 <br>
