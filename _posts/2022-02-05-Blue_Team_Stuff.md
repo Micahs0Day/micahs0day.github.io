@@ -36,7 +36,7 @@ This course was recommended by a Senior analyst. If you want to get more familia
 **Hands on Security Operations:** <br>
 [Security Blue Team BTL1](https://securityblue.team/why-btl1/)
 
-[Certified CyberDefender (CCD)](https://cyberdefenders.org/blueteam-training/courses/certified-cyberdefender/)
+[Certified CyberDefender (CCD)](https://cyberdefenders.org/blueteam-training/courses/certified-cyberdefender/) <br>
 *Full disclaimer, not much is known about this certification course, however CyberDefenders is a well known and vetted platform.*
 
 ## Training Platforms:
