@@ -49,9 +49,10 @@ This course was recommended by a Senior Incident colleague. If you want to get m
 # Training Platforms:
 ***
 > [TryHackMe](https://tryhackme.com/path/outline/blueteam) <br>
-*The CyberDefender path is phenominal! Can also be used as a resource to study for the CompTIA CySA+.*
+*The CyberDefender path is phenomenal! Can also be used as a resource to study for the CompTIA CySA+.*
 
 > [LetsDefend.io](https://letsdefend.io/)
+* The most realistic SOC/SIEM training platform that I have come across, a bit expensive but if you want hands on SIEM experience, this is the lowest bar to entry*
 
 > [CyberDefenders](https://cyberdefenders.org/) <br>
 *Amazing resource, contains tons of hands on lab activities, FOR FREE!!!*
