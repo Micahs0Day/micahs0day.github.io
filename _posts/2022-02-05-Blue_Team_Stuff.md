@@ -8,11 +8,13 @@ comments: true
 ![]({{site.baseurl}}/images/blueboy.jpg)
 
 ## Courses:
+***
 [SOC Core Skills](https://www.antisyphontraining.com/soc-core-skills-w-john-strand/)
 
 [Splunk Power User](https://www.udemy.com/course/splunk-zero-to-power-user/)
 
 ## Certifications:
+***
 **Active Directory:**
 
 [Build an AD Lab with TCM](https://www.youtube.com/watch?v=xftEuVQ7kY0)
@@ -36,6 +38,7 @@ comments: true
 [BTL1](https://securityblue.team/why-btl1/)
 
 ## Training Platforms:
+***
 [TryHackMe](https://tryhackme.com/path/outline/blueteam)
 
 [LetsDefend.io](https://letsdefend.io/)
@@ -45,6 +48,7 @@ comments: true
 [BTLO](https://blueteamlabs.online/)
 
 ## Content Creators:
+***
 [I.T Security Labs](https://www.youtube.com/c/ITSecurityLabs)
 
 [Gerald Auger](https://www.youtube.com/c/GeraldAuger)
@@ -59,7 +63,8 @@ comments: true
 
 [John Hubbard](https://www.youtube.com/c/SecHubb)
 
-## Cyber-Security Community on Reddit: 
+## Cyber-Security Community on Reddit:
+***
 [r/NetSecStudents](https://www.reddit.com/r/netsecstudents/)
 
 [r/CyberSecurity](https://www.reddit.com/r/Cybersecurity/)
