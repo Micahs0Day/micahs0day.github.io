@@ -7,7 +7,7 @@ comments: true
 ---
 ![]({{site.baseurl}}/images/blueboy.jpg)
 
-## Courses:
+# Courses:
 ***
 [SOC Core Skills](https://www.antisyphontraining.com/soc-core-skills-w-john-strand/) <br>
 John Strand is a legend in the infosec/cyber space. This "Pay what you can" training is a great way to get introduced to core skills needed by SOC analysts, and the payment model allows practically anyone to participate. I haven't had the privilege of attending this course yet, but it comes highly recommended.
@@ -19,7 +19,7 @@ As a SOC analyst, most of your time will be spent inside of a SIEM so it’s pro
 This course was recommended by a Senior analyst. If you want to get more familiar with attacker TTP's/Threat intelligence/Adversary detection, then this is the course for you.
 
 
-## Certifications:
+# Certifications:
 ***
 ### <ins> Networking Fundamentals: </ins>
 
@@ -42,7 +42,7 @@ This course was recommended by a Senior analyst. If you want to get more familia
 [Certified CyberDefender (CCD)](https://cyberdefenders.org/blueteam-training/courses/certified-cyberdefender/) <br>
 *Full disclaimer, not much is known about this certification course, however CyberDefenders is a well known and vetted platform.*
 
-## Training Platforms:
+# Training Platforms:
 ***
 [TryHackMe](https://tryhackme.com/path/outline/blueteam) <br>
 *The CyberDefender path is phenominal! Can also be used as a resource to study for the CompTIA CySA+.*
@@ -57,7 +57,7 @@ This course was recommended by a Senior analyst. If you want to get more familia
 [Splunk BOTS](https://bots.splunk.com/) <br>
 *Using this currently to level up my SPL/Investigation skills in Splunk. Highly recommend!*
 
-## Extras:
+# Extras:
 
 ### Active Directory:
 
@@ -66,7 +66,7 @@ This course was recommended by a Senior analyst. If you want to get more familia
 > [AD Security](https://adsecurity.org/)
 
 
-## Content Creators:
+# Content Creators:
 ***
 [I.T Security Labs](https://www.youtube.com/c/ITSecurityLabs) <br>
 *One of my inspirations for my home-lab, I love his threat detection and lab videos, couldn't recommend more!*
@@ -85,7 +85,7 @@ This course was recommended by a Senior analyst. If you want to get more familia
 
 [John Hubbard](https://www.youtube.com/c/SecHubb)
 
-## Cyber-Security Community on Reddit:
+# Cyber-Security Community on Reddit:
 ***
 [r/NetSecStudents](https://www.reddit.com/r/netsecstudents/)
 
