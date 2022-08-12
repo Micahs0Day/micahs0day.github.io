@@ -27,20 +27,24 @@ This course was recommended by a Senior Incident colleague. If you want to get m
 > [Cisco CCNA](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html) <br>
 *Probably the most recognized networking certification in the world. Networking is extremely important in Cyber-Security, if you don't take this cert, take the CompTIA Network+ or at least complete the training material. You can find free resources all over YouTube.*
 
-> [CompTIA Network+](https://www.comptia.org/certifications/network)
+> [CompTIA Network+](https://www.comptia.org/certifications/network) <br>
+*A great certification that gives the student a broad overview of common network protocols, implementations, operations, and troubleshooting. Even includes a bit of network security content.*
 
-> [101 Labs - CompTIA Network+](https://www.amazon.com/101-Labs-CompTIA-Paul-Browning/dp/1726841294/ref=sr_1_2?dchild=1&keywords=101+labs&qid=1614006944&sr=8-2/)
+> [101 Labs - CompTIA Network+](https://www.amazon.com/101-Labs-CompTIA-Paul-Browning/dp/1726841294/ref=sr_1_2?dchild=1&keywords=101+labs&qid=1614006944&sr=8-2/) <br>
+*Networking labs that you can do at home to prepare for the Network+ or just get hands on Networking experience.*
 
 ### <ins> Security Operations: </ins>
 
-> [CompTIA Security+](https://www.comptia.org/certifications/security)
+> [CompTIA Security+](https://www.comptia.org/certifications/security) <br>
+*Fulfills the DoD 8570 compliance requirement and is one of the most well-known Security certifications. A lot of private companies require this certification for security operations positions.*
 
-> [CompTIA CySA+](https://www.comptia.org/certifications/cybersecurity-analyst)
+> [CompTIA CySA+](https://www.comptia.org/certifications/cybersecurity-analyst) <br>
+*Next step up from the CySA+, piggybacks on a lot of the material covered in the Security+, great for those wanting to level up their skills and validate their security knowledge.*
 
 ### <ins> Hands on Security Operations: </ins>
 
 > [Security Blue Team BTL1](https://securityblue.team/why-btl1/) <br>
-*Practical 24-hour incident response exam, that covers 6 domains (Security Fundementals/Phishing Analysis/Threat Intelligence/Digital Forensics/SIEM/Incident Response). Looking forward to taking this one!!*
+*Practical 24-hour incident response exam, that covers 6 domains (Security Fundamentals/Phishing Analysis/Threat Intelligence/Digital Forensics/SIEM/Incident Response). Looking forward to taking this one!!*
 
 > [Certified CyberDefender (CCD)](https://cyberdefenders.org/blueteam-training/courses/certified-cyberdefender/) <br>
 *Full disclaimer, not much is known about this certification course, however CyberDefenders is a well known and vetted platform.*
