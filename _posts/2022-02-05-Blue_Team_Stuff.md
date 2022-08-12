@@ -57,7 +57,7 @@ This course was recommended by a Senior Incident colleague. If you want to get m
 > [CyberDefenders](https://cyberdefenders.org/) <br>
 *Amazing resource, contains tons of hands on lab activities, FOR FREE!!!*
 
-> [Blue Team Labs Online](https://blueteamlabs.online/)
+> [Blue Team Labs Online](https://blueteamlabs.online/) <br>
 *Hands on DFIR, Security Operations, Reverse engineering, threat hunting, and OSINT challenges. (Similar to CyberDefenders, but contains paid elements)*
 
 > [Splunk BOTS](https://bots.splunk.com/) <br>
