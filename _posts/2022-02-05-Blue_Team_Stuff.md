@@ -19,12 +19,6 @@ As a SOC analyst, most of your time will be spent inside of a SIEM so it’s pro
 
 ## Certifications:
 ***
-**Active Directory:**
-
-> [Build an AD Lab with TCM](https://www.youtube.com/watch?v=xftEuVQ7kY0)
-
-> [AD Security](https://adsecurity.org/)
-
 **Networking Fundamentals:**
 
 [Cisco CCNA](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html)
@@ -58,6 +52,14 @@ As a SOC analyst, most of your time will be spent inside of a SIEM so it’s pro
 [Splunk BOTS](https://bots.splunk.com/)
 
 *Using this currently to level up my SPL/Investigation skills in Splunk. Highly recommend!*
+
+## Extras:
+
+**Active Directory:**
+
+> [Build an AD Lab with TCM](https://www.youtube.com/watch?v=xftEuVQ7kY0)
+
+> [AD Security](https://adsecurity.org/)
 
 ## Content Creators:
 ***
