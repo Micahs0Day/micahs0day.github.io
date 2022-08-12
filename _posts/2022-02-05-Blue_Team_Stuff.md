@@ -93,9 +93,12 @@ This course was recommended by a Senior Incident colleague. If you want to get m
 [Day CyberWox](https://www.youtube.com/c/DayCyberwox) <br>
 *This guy's story is amazing, he managed to climb the ranks to Cybersecurity Engineer by the age of ~19. Really inspirational!*
 
+[John Hubbard](https://www.youtube.com/c/SecHubb) <br>
+*Really awesome SANS instructor that breaks down complicated topics into an easily digestible, beginner friendly format*
+
 [Active Counter Measures](https://www.youtube.com/c/ActiveCountermeasures)
 
-[John Hubbard](https://www.youtube.com/c/SecHubb)
+
 
 <br>
 
