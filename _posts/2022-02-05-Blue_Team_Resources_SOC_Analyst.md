@@ -11,6 +11,8 @@ comments: true
 
 This is just a quick braindump of the resources that I used to get acclimated with Cybersecurity, and helped me to land an entry level role as a SOC Analyst. I hope that this brief post will help those who are trying to break into the field. I will continue to edit this page as I think of more resources or come across new ones. God Bless!
 
+<br>
+
 # Courses:
 ***
 [SOC Core Skills](https://www.antisyphontraining.com/soc-core-skills-w-john-strand/) <br>
