@@ -119,6 +119,9 @@ This course was recommended by a Senior colleague. If you want to get more famil
 [LinkedIn Hacks to Get a Cybersecurity Job | Skill Based Searches (Less Time On Job Boards)](https://www.youtube.com/watch?v=ZBYwdJ-f0j0)
 *Nato as Code*
 
+[Resume Template](https://www.reddit.com/r/jobs/comments/7y8k6p/im_an_exrecruiter_for_some_of_the_top_companies/)
+*u/sheetsGiggles*
+
 <br>
 
 # Cyber-Security Community on Reddit:
