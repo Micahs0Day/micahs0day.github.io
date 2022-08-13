@@ -120,7 +120,7 @@ This course was recommended by a Senior colleague. If you want to get more famil
 *Nato as Code*
 
 [Resume Template](https://www.reddit.com/r/jobs/comments/7y8k6p/im_an_exrecruiter_for_some_of_the_top_companies/)
-*u/sheetsGiggles*
+*u/SheetsGiggles*
 
 <br>
 
