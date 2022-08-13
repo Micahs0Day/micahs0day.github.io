@@ -15,13 +15,13 @@ This is just a quick braindump of the resources that I used to get acclimated wi
 
 # Courses:
 ***
-[SOC Core Skills](https://www.antisyphontraining.com/soc-core-skills-w-john-strand/) <br>
+> [SOC Core Skills](https://www.antisyphontraining.com/soc-core-skills-w-john-strand/) <br>
 John Strand is a legend in the infosec/cyber space. This "Pay what you can" training is a great way to get introduced to core skills needed by SOC analysts, and the payment model allows practically anyone to participate. I haven't had the privilege of attending this course yet, but it comes highly recommended.
 
-[Splunk Power User](https://www.udemy.com/course/splunk-zero-to-power-user/) <br>
+> [Splunk Power User](https://www.udemy.com/course/splunk-zero-to-power-user/) <br>
 As a SOC analyst most of your time will be spent inside of a SIEM, therefore it’s highly advantageous to get familiar with one fast. Splunk is a very popular SIEM and takes up a large majority of the market share. This course helps to acclimate you to working with searches and SPL in Splunk. After taking this course, you put yourself in a great position to pass the "Splunk Core Certified Power User" certification exam. Passing it will make yourself more marketable to recruiters/HR.
 
-[MITRE ATT&CK Defender™ (MAD)](https://www.cybrary.it/course/mitre-attack-defender-mad-attack-fundamentals/) <br>
+> [MITRE ATT&CK Defender™ (MAD)](https://www.cybrary.it/course/mitre-attack-defender-mad-attack-fundamentals/) <br>
 This course was recommended by a Senior colleague. If you want to get more familiar with attacker TTP's/Threat intelligence/Adversary detection, then this is the course for you.
 
 <br>
@@ -81,11 +81,11 @@ This course was recommended by a Senior colleague. If you want to get more famil
 
 ### <ins> Windows Domain/Active Directory: </ins>
 
-> [Build an AD Lab with TCM](https://www.youtube.com/watch?v=xftEuVQ7kY0)
+[Build an AD Lab with TCM](https://www.youtube.com/watch?v=xftEuVQ7kY0)
 
-> [AD Security](https://adsecurity.org/)
+[AD Security](https://adsecurity.org/)
 
-> [SANS DFIR Webcast - Incident Response Event Log Analysis](https://www.youtube.com/watch?v=Xw536W7kbDQ)
+[SANS DFIR Webcast - Incident Response Event Log Analysis](https://www.youtube.com/watch?v=Xw536W7kbDQ)
 
 
 ### <ins> Content Creators: </ins>
