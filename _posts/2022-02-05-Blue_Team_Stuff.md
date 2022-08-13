@@ -111,13 +111,13 @@ This course was recommended by a Senior colleague. If you want to get more famil
 ***
 
 [Hack your LinkedIn PROFILE to get a job](https://www.youtube.com/watch?v=Ecf0tNoYemc)
-*@David Bombal*
+*David Bombal*
 
 [How to apply to CyberSecurity Jobs Using LinkedIn Job Search Hacks](https://www.youtube.com/watch?v=nyDEEPvtMYY)
-*Free webinars sponsored by BHIS, a huge fan of their threat hunting content!*
+*TechTual Chatter*
 
 [LinkedIn Hacks to Get a Cybersecurity Job | Skill Based Searches (Less Time On Job Boards)](https://www.youtube.com/watch?v=ZBYwdJ-f0j0)
-*Free webinars sponsored by BHIS, a huge fan of their threat hunting content!*
+*Nato as Code*
 
 <br>
 
