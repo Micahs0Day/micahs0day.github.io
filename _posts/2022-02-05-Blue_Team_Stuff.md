@@ -77,6 +77,7 @@ This course was recommended by a Senior colleague. If you want to get more famil
 <br>
 
 # Extras:
+***
 
 ### <ins> Windows Domain/Active Directory: </ins>
 
@@ -86,10 +87,9 @@ This course was recommended by a Senior colleague. If you want to get more famil
 
 > [SANS DFIR Webcast - Incident Response Event Log Analysis](https://www.youtube.com/watch?v=Xw536W7kbDQ)
 
-<br>
 
-# Content Creators:
-***
+### <ins> Content Creators: </ins>
+
 [I.T Security Labs](https://www.youtube.com/c/ITSecurityLabs) <br>
 *One of the inspirations for my home-lab, I love his threat detection and lab videos. Top tier!*
 
@@ -111,10 +111,8 @@ This course was recommended by a Senior colleague. If you want to get more famil
 [Active Counter Measures](https://www.youtube.com/c/ActiveCountermeasures) <br>
 *Free webinars sponsored by BHIS, a huge fan of their threat hunting content!*
 
-<br>
 
-# Resume/LinkedIn Hacks
-***
+### <ins> Resume/LinkedIn Hacks </ins>
 
 [Hack your LinkedIn PROFILE to get a job](https://www.youtube.com/watch?v=Ecf0tNoYemc)
 *David Bombal*
@@ -131,10 +129,8 @@ This course was recommended by a Senior colleague. If you want to get more famil
 [Resume Template](https://www.reddit.com/r/jobs/comments/7y8k6p/im_an_exrecruiter_for_some_of_the_top_companies/)
 *u/SheetsGiggles*
 
-<br>
+### <ins> Cyber-Security Community on Reddit: </ins>
 
-# Cyber-Security Community on Reddit:
-***
 [r/NetSecStudents](https://www.reddit.com/r/netsecstudents/)
 
 [r/CyberSecurity](https://www.reddit.com/r/Cybersecurity/)
