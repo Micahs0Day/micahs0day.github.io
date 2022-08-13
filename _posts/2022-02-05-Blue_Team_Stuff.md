@@ -13,10 +13,10 @@ comments: true
 John Strand is a legend in the infosec/cyber space. This "Pay what you can" training is a great way to get introduced to core skills needed by SOC analysts, and the payment model allows practically anyone to participate. I haven't had the privilege of attending this course yet, but it comes highly recommended.
 
 [Splunk Power User](https://www.udemy.com/course/splunk-zero-to-power-user/) <br>
-As a SOC analyst, most of your time will be spent inside of a SIEM so it’s profitable to get familiar with one fast. Splunk is a very popular SIEM and takes up a large majority of the market share. This course helps to acclimate you to working with analytics and SPL in Splunk. After taking this course, you put yourself in a great position to pass the "Splunk Core Certified Power User" certification exam. Passing it will make yourself more marketable to recruiters/HR.
+As a SOC analyst most of your time will be spent inside of a SIEM, therefore it’s highly advantageous to get familiar with one fast. Splunk is a very popular SIEM and takes up a large majority of the market share. This course helps to acclimate you to working with searches and SPL in Splunk. After taking this course, you put yourself in a great position to pass the "Splunk Core Certified Power User" certification exam. Passing it will make yourself more marketable to recruiters/HR.
 
 [MITRE ATT&CK Defender™ (MAD)](https://www.cybrary.it/course/mitre-attack-defender-mad-attack-fundamentals/) <br>
-This course was recommended by a Senior Incident colleague. If you want to get more familiar with attacker TTP's/Threat intelligence/Adversary detection, then this is the course for you.
+This course was recommended by a Senior colleague. If you want to get more familiar with attacker TTP's/Threat intelligence/Adversary detection, then this is the course for you.
 
 <br>
 
@@ -25,18 +25,18 @@ This course was recommended by a Senior Incident colleague. If you want to get m
 ### <ins> Networking Fundamentals: </ins>
 
 > [Cisco CCNA](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html) <br>
-*Probably the most recognized networking certification in the world. Networking is extremely important in Cyber-Security, if you don't take this cert, take the CompTIA Network+ or at least complete the training material. You can find free resources all over YouTube.*
+*Probably the most recognized networking certification in the world. Networking is extremely important in Cyber-Security especially for day to day security operations. If you don't take this cert/training, then take the CompTIA Network+ or at least complete the training material. You can find free resources all over YouTube.*
 
 > [CompTIA Network+](https://www.comptia.org/certifications/network) <br>
 *A great certification that gives the student a broad overview of common network protocols, implementations, operations, and troubleshooting. Even includes a bit of network security content.*
 
 > [101 Labs - CompTIA Network+](https://www.amazon.com/101-Labs-CompTIA-Paul-Browning/dp/1726841294/ref=sr_1_2?dchild=1&keywords=101+labs&qid=1614006944&sr=8-2/) <br>
-*Networking labs that you can do at home to prepare for the Network+ OR to just get hands on Networking experience.*
+*Networking labs that you can do at home to prepare for the Network+. You can also just do the labs for hands on Networking experience.*
 
 ### <ins> Security Operations: </ins>
 
 > [CompTIA Security+](https://www.comptia.org/certifications/security) <br>
-*Fulfills the DoD 8570 compliance requirement and is one of the most well-known Security certifications. A lot of private companies require this certification for security operations positions.*
+*Fulfills the DoD 8570 compliance requirement and is one of the most well-known Cybersecurity certifications. A lot of private companies require this certification for security operations positions.*
 
 > [CompTIA CySA+](https://www.comptia.org/certifications/cybersecurity-analyst) <br>
 *Next step up from the CySA+. This certification piggybacks on a lot of the material covered in the Security+, great for those wanting to level up their skills and validate their security knowledge.*
@@ -44,7 +44,7 @@ This course was recommended by a Senior Incident colleague. If you want to get m
 ### <ins> Hands on Security Operations: </ins>
 
 > [Security Blue Team BTL1](https://securityblue.team/why-btl1/) <br>
-*Practical 24-hour incident response exam, that covers 6 domains (Security Fundamentals/Phishing Analysis/Threat Intelligence/Digital Forensics/SIEM/Incident Response). Looking forward to taking this one!!*
+*Practical 24-hour incident response exam that covers 6 domains (Security Fundamentals/Phishing Analysis/Threat Intelligence/Digital Forensics/SIEM/Incident Response). Really looking forward to taking this one!!*
 
 > [Certified CyberDefender (CCD)](https://cyberdefenders.org/blueteam-training/courses/certified-cyberdefender/) <br>
 *Full disclaimer, not much is known about this certification course, however CyberDefenders is a well known and vetted platform.*
@@ -63,7 +63,7 @@ This course was recommended by a Senior Incident colleague. If you want to get m
 *Amazing resource, contains tons of hands on lab activities, FOR FREE!!!*
 
 > [Blue Team Labs Online](https://blueteamlabs.online/) <br>
-*Hands on DFIR, Security Operations, Reverse engineering, threat hunting, and OSINT challenges. (Similar to CyberDefenders, but contains paid elements)*
+*Hands on DFIR, security Operations, reverse engineering, threat hunting, and OSINT challenges. (Similar to CyberDefenders, but contains paid elements)*
 
 > [Splunk BOTS](https://bots.splunk.com/) <br>
 *Using this currently to level up my SPL/Investigation skills in Splunk. Highly recommend!*
@@ -85,7 +85,7 @@ This course was recommended by a Senior Incident colleague. If you want to get m
 # Content Creators:
 ***
 [I.T Security Labs](https://www.youtube.com/c/ITSecurityLabs) <br>
-*One of my inspirations for my home-lab, I love his threat detection and lab videos, couldn't recommend more!*
+*One of the inspirations for my home-lab, I love his threat detection and lab videos. Top tier!*
 
 [Gerald Auger](https://www.youtube.com/c/GeraldAuger) <br>
 *Dr. Auger is extremely active in the Cyber community and his interviews are top notch! I learn so much from this channel!*
@@ -97,7 +97,7 @@ This course was recommended by a Senior Incident colleague. If you want to get m
 *This guy's story is amazing, he managed to climb the ranks to Cybersecurity Engineer by the age of ~19. Really inspirational!*
 
 [John Hubbard](https://www.youtube.com/c/SecHubb) <br>
-*Really awesome SANS instructor that breaks down complicated topics into an easily digestible, beginner friendly format*
+*Really awesome SANS instructor that breaks down complicated topics into an easily digestible and beginner friendly format*
 
 [Black Hills Information Security](https://www.youtube.com/c/BlackHillsInformationSecurity) <br>
 *Black Hills is a pillar in the Cybersecurity community, they own several companies (including Active Counter Measures) and provide plenty of free/paid/affordable training and webinars*
