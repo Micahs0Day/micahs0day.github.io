@@ -113,6 +113,9 @@ This course was recommended by a Senior colleague. If you want to get more famil
 [Hack your LinkedIn PROFILE to get a job](https://www.youtube.com/watch?v=Ecf0tNoYemc)
 *David Bombal*
 
+[How to use LinkedIn to land an ENTRY-LEVEL SOC Analyst role](https://www.youtube.com/watch?v=jvGboagqfQI)
+*TechTual Chatter*
+
 [How to apply to CyberSecurity Jobs Using LinkedIn Job Search Hacks](https://www.youtube.com/watch?v=nyDEEPvtMYY)
 *TechTual Chatter*
 
