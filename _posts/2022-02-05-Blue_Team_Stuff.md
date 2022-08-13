@@ -90,43 +90,43 @@ This course was recommended by a Senior colleague. If you want to get more famil
 
 ### <ins> Content Creators: </ins>
 
-[I.T Security Labs](https://www.youtube.com/c/ITSecurityLabs) <br>
+> [I.T Security Labs](https://www.youtube.com/c/ITSecurityLabs) <br>
 *One of the inspirations for my home-lab, I love his threat detection and lab videos. Top tier!*
 
-[Gerald Auger](https://www.youtube.com/c/GeraldAuger) <br>
+> [Gerald Auger](https://www.youtube.com/c/GeraldAuger) <br>
 *Dr. Auger is extremely active in the Cyber community and his interviews are top notch! I learn so much from this channel!*
 
-[Josh Madakor](https://www.youtube.com/c/JoshMadakor) <br>
+> [Josh Madakor](https://www.youtube.com/c/JoshMadakor) <br>
 *One of my favorite YouTubers by far, has amazing content and a breadth of knowledge that is unmatched.*
 
-[Day CyberWox](https://www.youtube.com/c/DayCyberwox) <br>
+> [Day CyberWox](https://www.youtube.com/c/DayCyberwox) <br>
 *This guy's story is amazing, he managed to climb the ranks to Cybersecurity Engineer by the age of ~19. Really inspirational!*
 
-[John Hubbard](https://www.youtube.com/c/SecHubb) <br>
+> [John Hubbard](https://www.youtube.com/c/SecHubb) <br>
 *Really awesome SANS instructor that breaks down complicated topics into an easily digestible and beginner friendly format*
 
-[Black Hills Information Security](https://www.youtube.com/c/BlackHillsInformationSecurity) <br>
+> [Black Hills Information Security](https://www.youtube.com/c/BlackHillsInformationSecurity) <br>
 *Black Hills is a pillar in the Cybersecurity community, they own several companies (including Active Counter Measures) and provide plenty of free/paid/affordable training and webinars*
 
-[Active Counter Measures](https://www.youtube.com/c/ActiveCountermeasures) <br>
+> [Active Counter Measures](https://www.youtube.com/c/ActiveCountermeasures) <br>
 *Free webinars sponsored by BHIS, a huge fan of their threat hunting content!*
 
 
 ### <ins> Resume/LinkedIn Hacks </ins>
 
-[Hack your LinkedIn PROFILE to get a job](https://www.youtube.com/watch?v=Ecf0tNoYemc)
+> [Hack your LinkedIn PROFILE to get a job](https://www.youtube.com/watch?v=Ecf0tNoYemc) <br>
 *David Bombal*
 
-[How to use LinkedIn to land an ENTRY-LEVEL SOC Analyst role](https://www.youtube.com/watch?v=jvGboagqfQI)
+> [How to use LinkedIn to land an ENTRY-LEVEL SOC Analyst role](https://www.youtube.com/watch?v=jvGboagqfQI) <br>
 *TechTual Chatter*
 
-[How to apply to CyberSecurity Jobs Using LinkedIn Job Search Hacks](https://www.youtube.com/watch?v=nyDEEPvtMYY)
+> [How to apply to CyberSecurity Jobs Using LinkedIn Job Search Hacks](https://www.youtube.com/watch?v=nyDEEPvtMYY) <br>
 *TechTual Chatter*
 
-[LinkedIn Hacks to Get a Cybersecurity Job | Skill Based Searches (Less Time On Job Boards)](https://www.youtube.com/watch?v=ZBYwdJ-f0j0)
+> [LinkedIn Hacks to Get a Cybersecurity Job | Skill Based Searches (Less Time On Job Boards)](https://www.youtube.com/watch?v=ZBYwdJ-f0j0) <br>
 *Nato as Code*
 
-[Resume Template](https://www.reddit.com/r/jobs/comments/7y8k6p/im_an_exrecruiter_for_some_of_the_top_companies/)
+> [Resume Template](https://www.reddit.com/r/jobs/comments/7y8k6p/im_an_exrecruiter_for_some_of_the_top_companies/) <br>
 *u/SheetsGiggles*
 
 ### <ins> Cyber-Security Community on Reddit: </ins>
