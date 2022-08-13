@@ -79,13 +79,13 @@ This course was recommended by a Senior colleague. If you want to get more famil
 # Windows Domain/Active Directory:
 ***
 > [Build an AD Lab with TCM](https://www.youtube.com/watch?v=xftEuVQ7kY0) <br>
-**
+*Create a small home-lab that you can use to practice security configurations/learn about common attacks against Windows Domains.*
 
 > [AD Security](https://adsecurity.org/) <br>
-**
+*"Active Directory & Enterprise Security, Methods to Secure Active Directory, Attack Methods & Effective Defenses, PowerShell, Tech Notes, & Geek Trivia…"*
 
 > [SANS DFIR Webcast - Incident Response Event Log Analysis](https://www.youtube.com/watch?v=Xw536W7kbDQ) <br>
-**
+*Tips/tricks for event log analysis using a real world incident response scenario.*
 
 <br>
 
