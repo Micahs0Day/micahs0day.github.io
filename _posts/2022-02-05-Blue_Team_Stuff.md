@@ -78,15 +78,19 @@ This course was recommended by a Senior colleague. If you want to get more famil
 
 # Windows Domain/Active Directory:
 ***
-[Build an AD Lab with TCM](https://www.youtube.com/watch?v=xftEuVQ7kY0)
+> [Build an AD Lab with TCM](https://www.youtube.com/watch?v=xftEuVQ7kY0) <br>
+**
 
-[AD Security](https://adsecurity.org/)
+> [AD Security](https://adsecurity.org/) <br>
+**
 
-[SANS DFIR Webcast - Incident Response Event Log Analysis](https://www.youtube.com/watch?v=Xw536W7kbDQ)
+> [SANS DFIR Webcast - Incident Response Event Log Analysis](https://www.youtube.com/watch?v=Xw536W7kbDQ) <br>
+**
+
+<br>
 
 # Extras:
 ***
-
 ### <ins> Content Creators: </ins>
 
 > [I.T Security Labs](https://www.youtube.com/c/ITSecurityLabs) <br>
