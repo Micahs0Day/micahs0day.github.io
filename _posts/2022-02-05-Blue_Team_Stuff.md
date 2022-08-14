@@ -74,6 +74,9 @@ This course was recommended by a Senior colleague. If you want to get more famil
 > [Splunk BOTS](https://bots.splunk.com/) <br>
 *Using this currently to level up my SPL/Investigation skills in Splunk. Highly recommend!*
 
+> [DFIR Diva](https://training.dfirdiva.com/) <br>
+*Not really a training platform, but Elan Wright has cultivated some awesome resources on her website.*
+
 <br>
 
 # Windows Domain/Active Directory:
@@ -91,6 +94,34 @@ This course was recommended by a Senior colleague. If you want to get more famil
 
 # Extras:
 ***
+
+### <ins> Resume/LinkedIn Hacks </ins>
+
+> [Hack your LinkedIn PROFILE to get a job](https://www.youtube.com/watch?v=Ecf0tNoYemc) <br>
+*David Bombal*
+
+> [How to use LinkedIn to land an ENTRY-LEVEL SOC Analyst role](https://www.youtube.com/watch?v=jvGboagqfQI) <br>
+*TechTual Chatter*
+
+> [How to apply to CyberSecurity Jobs Using LinkedIn Job Search Hacks](https://www.youtube.com/watch?v=nyDEEPvtMYY) <br>
+*TechTual Chatter*
+
+> [LinkedIn Hacks to Get a Cybersecurity Job | Skill Based Searches (Less Time On Job Boards)](https://www.youtube.com/watch?v=ZBYwdJ-f0j0) <br>
+*Nato as Code*
+
+> [Resume Template](https://www.reddit.com/r/jobs/comments/7y8k6p/im_an_exrecruiter_for_some_of_the_top_companies/) <br>
+*u/SheetsGiggles*
+
+
+### <ins> Job Hunting </ins>
+
+> [THE Cybersecurity career and job hunting guide](https://www.cyberhuntingguide.net/) <br>
+*Stefan Waldvogel*
+
+> [Cyber Job Heatmap](https://www.cyberseek.org/) <br>
+*Actionable data about supply and demand in the cybersecurity job market.*
+
+
 ### <ins> Content Creators: </ins>
 
 > [I.T Security Labs](https://www.youtube.com/c/ITSecurityLabs) <br>
@@ -114,23 +145,6 @@ This course was recommended by a Senior colleague. If you want to get more famil
 > [Active Counter Measures](https://www.youtube.com/c/ActiveCountermeasures) <br>
 *Free webinars sponsored by BHIS, a huge fan of their threat hunting content!*
 
-
-### <ins> Resume/LinkedIn Hacks </ins>
-
-> [Hack your LinkedIn PROFILE to get a job](https://www.youtube.com/watch?v=Ecf0tNoYemc) <br>
-*David Bombal*
-
-> [How to use LinkedIn to land an ENTRY-LEVEL SOC Analyst role](https://www.youtube.com/watch?v=jvGboagqfQI) <br>
-*TechTual Chatter*
-
-> [How to apply to CyberSecurity Jobs Using LinkedIn Job Search Hacks](https://www.youtube.com/watch?v=nyDEEPvtMYY) <br>
-*TechTual Chatter*
-
-> [LinkedIn Hacks to Get a Cybersecurity Job | Skill Based Searches (Less Time On Job Boards)](https://www.youtube.com/watch?v=ZBYwdJ-f0j0) <br>
-*Nato as Code*
-
-> [Resume Template](https://www.reddit.com/r/jobs/comments/7y8k6p/im_an_exrecruiter_for_some_of_the_top_companies/) <br>
-*u/SheetsGiggles*
 
 ### <ins> Cyber-Security Community on Reddit: </ins>
 
