@@ -116,7 +116,7 @@ This course was recommended by a Senior colleague. If you want to get more famil
 ### <ins> Job Hunting </ins>
 
 > [THE Cybersecurity career and job hunting guide](https://www.cyberhuntingguide.net/) <br>
-*Stefan Waldvogel*
+*An amazing place to start if you are looking to get into Cyber. Stefan Waldvogel goes from A to Z and includes everything you need to get started.*
 
 > [Cyber Job Heatmap](https://www.cyberseek.org/) <br>
 *Actionable data about supply and demand in the cybersecurity job market.*
