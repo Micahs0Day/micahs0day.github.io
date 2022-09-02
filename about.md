@@ -5,7 +5,11 @@ permalink: /about/
 published: true
 ---
 
-Cybersecurity professional with over 3 years experience supporting/securing digital infrastructure dealing with virtualization, Windows/Linux administration, networking, server management, vulnerability management, firewall administration and more. 
+Firstly, glory to the most high, Jesus Christ, for all my success.
+
+I have over three years in the corporate tech space supporting/securing infrastructure dealing with virtualization, Windows/Linux administration, networking, server management, vulnerability management, firewall administration and more. 
+
+I recently started my career in information security as an Cybersecurity analyst at Novant Health. I'm primarily using this platform to connect with other like minded individuals, feel free to reach out!
 
 ### Certifications:
 
@@ -21,7 +25,4 @@ Cybersecurity professional with over 3 years experience supporting/securing digi
 
 - MITRE ATT&CK Defender (MAD) ATT&CK Fundamentals
 
-### Contact me
-
-[LinkedIn](https://www.linkedin.com/in/micah-funderburk/)
 
