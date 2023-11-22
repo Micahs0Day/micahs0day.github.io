@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Patching - A Necessary Evil
-published: true
+published: false
 categories: blog
 comments: true
 ---
