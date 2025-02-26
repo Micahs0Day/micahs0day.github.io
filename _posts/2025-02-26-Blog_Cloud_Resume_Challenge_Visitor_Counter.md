@@ -34,7 +34,7 @@ Status: Done
 
 ### **1. DynamoDB Table Setup ✅**
 
-[Choosing the Right DynamoDB Partition Key | Amazon Web Services](https://aws.amazon.com/blogs/database/choosing-the-right-dynamodb-partition-key/)
+[Choosing the Right DynamoDB Partition Key - Amazon Web Services](https://aws.amazon.com/blogs/database/choosing-the-right-dynamodb-partition-key/)
 
 [Core components of Amazon DynamoDB - Amazon DynamoDB](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/HowItWorks.CoreComponents.html)
 
@@ -155,11 +155,11 @@ def Get_Visitor_Count():
 
 [JSFiddle - Code Playground](https://jsfiddle.net/)
 
-[JavaScript Fetch API use cases for fetching data, JSON, XML, etc. | Learn JavaScript](https://learnjavascript.online/topics/fetch.html)
+[JavaScript Fetch API use cases for fetching data, JSON, XML, etc. - Learn JavaScript](https://learnjavascript.online/topics/fetch.html)
 
-[Document: getElementById() method - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementById)
+[Document: getElementById() method - Web APIs - MDN](https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementById)
 
-[Node: textContent property - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/Node/textContent#differences_from_innertext)
+[Node: textContent property - Web APIs - MDN](https://developer.mozilla.org/en-US/docs/Web/API/Node/textContent#differences_from_innertext)
 
 Example HTML
 
