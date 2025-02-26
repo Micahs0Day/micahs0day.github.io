@@ -25,7 +25,7 @@ Status: Done
         - Increment the count.
         - Save the updated count back to DynamoDB.
         - Return the updated count.
-3. Add a public endpoint to the lambda function using API Gateway
+3. Add a public endpoint trigger to the lambda function using **Amazon API Gateway**
 4. **Frontend (JavaScript)**:
     - Call the API Gateway using `fetch()`.
     - Display the returned visitor count.
