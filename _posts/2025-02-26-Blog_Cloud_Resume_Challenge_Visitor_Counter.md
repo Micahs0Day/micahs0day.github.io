@@ -61,7 +61,7 @@ Status: Done
                 "dynamodb:UpdateItem",
                 "dynamodb:Scan"
             ],
-            "Resource": "arn:aws:dynamodb:us-east-1:087082156078:table/VisitorCountTable"
+            "Resource": "arn:aws:dynamodb:us-east-1:123456789:table/VisitorCountTable"
         }
     ]
 }
