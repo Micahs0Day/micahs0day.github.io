@@ -186,7 +186,7 @@ fetch('https://aegjbsexha.execute-api.us-east-1.amazonaws.com/default/VisitorCou
 
 Example CSS
 
-```json
+```css
 .visitor-count {
   position: absolute;  /* Keeps the element fixed while scrolling */
   top: 50px;        /* Places the element 50px from the top */
