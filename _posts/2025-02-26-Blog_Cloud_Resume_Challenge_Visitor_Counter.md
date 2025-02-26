@@ -42,7 +42,7 @@ Status: Done
 2. Set the initial count manually to 1.
 3. Create another attribute named `visitor_count` and set it to 0
 
-![image.png](image.png)
+![]({{site.baseurl}}/images/crc_visitor_counter_dynamodb.png)
 
 ---
 
