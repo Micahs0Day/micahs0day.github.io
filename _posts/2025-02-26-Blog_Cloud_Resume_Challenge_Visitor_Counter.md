@@ -144,10 +144,14 @@ def Get_Visitor_Count():
 5. Choose **Create an API**
     1. **New API:** For **API type**, choose **HTTP API**. For more information, see [Choosing an API type](https://docs.aws.amazon.com/lambda/latest/dg/services-apigateway.html#services-apigateway-apitypes).
 6. For **Security**, choose **Open**.
-7. Enable CORS
-8. Choose **Add**.
+7. Enable CORS -> Access-Control-Allow-Origin = *
+8. Choose **Add** then **Save**.
 9. Navigate to API Gateway > APIs > *API you just created* > Routes 
 10. Edit Route to GET
+
+![]({{site.baseurl}}/images/crc_visitor_counter_api_cors.png)
+
+![]({{site.baseurl}}/images/crc_visitor_counter_api_route.png)
 
 ---
 
